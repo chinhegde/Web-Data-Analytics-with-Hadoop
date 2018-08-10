@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FCC Survey</title>
+	<link rel="stylesheet" type="text/css" href="fcc-2.css">
+</head>
+<body>
+	<h1 id="title">Survey Form</h1>
+	<p id="description"></p>
+	<form id="survey-form">
+		<label for="name" id="name-id">* Name:</label>
+		<input type="text" name="" id="name" placeholder="Enter your name">
+		<br><br>
+		<label for="email" id="email-id">* Email:</label>
+		<input type="email" name="" id="email" placeholder="Enter your Email">
+		<br><br>
+		<label for="number" id="number-label">* Age:</label>
+		<input type="number" name="" id="number" placeholder="Age">
+		<br><br>
+		<label for="dropdown">
+			Which option describes your current role?
+		</label>
+		<select id="dropdown">
+			<option value="Student">Student</option>
+			<option value="Full Time Job">Full Time Job</option>
+			<option value="Full Time Learner">Full Time Learner</option>
+			<option>Prefer not to say</option>
+			<option value="Others">Others</option>
+		</select>
+		<br><br>
+		<label class="question">* How likely is that you would recommend freeCodeCamp to a friend?</label>
+		<input type="radio" name="recommend" id="recommend1"><label for="recommend1">Definitely</label> 
+		<br>
+		<input type="radio" name="recommend" id="recommend2">
+		<label for="recommend2">Maybe</label>
+		<br>
+		<input type="radio" name="recommend" id="recommend3">
+		<label for="recommend3">Not sure</label>
+		<br>
+		<label class="question">Things that should be improved in the future (Check all that apply):</label><br>
+		<input type="checkbox" name="feedback1" value="opt1">
+		<label for="feedback1">Front-end Projects</label><br>
+		<input type="checkbox" name="feedback2" value="opt2">
+		<label for="feedback2">Back-end Projects</label><br>
+		<input type="checkbox" name="feedback3" value="opt3">
+		<label for="feedback3">Data Visualization</label><br>
+		<input type="checkbox" name="feedback4" value="opt4">
+		<label for="feedback4">Gitter help rooms</label>
+		<br><br>
+		<label for="text-area">Any comments or suggestions?</label>
+		<textarea name="text-area" id="text-area" placeholder="Enter any comments here..."></textarea><br><br>
+		<button id="submit">Submit</button>
+	</form>
+</body>
+</html>
