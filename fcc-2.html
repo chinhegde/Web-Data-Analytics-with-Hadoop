@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1 id="title">Survey Form</h1>
-	<p id="description"></p>
+	<p id="description">Fill in your details.</p>
 	<form id="survey-form">
 		<label for="name" id="name-id">* Name:</label>
 		<input type="text" name="" id="name" placeholder="Enter your name">
@@ -15,7 +15,7 @@
 		<input type="email" name="" id="email" placeholder="Enter your Email">
 		<br><br>
 		<label for="number" id="number-label">* Age:</label>
-		<input type="number" name="" id="number" placeholder="Age">
+		<input type="number" name="" id="number" placeholder="Age" min="10" max="70">
 		<br><br>
 		<label for="dropdown">
 			Which option describes your current role?
@@ -28,7 +28,7 @@
 			<option value="Others">Others</option>
 		</select>
 		<br><br>
-		<label class="question">* How likely is that you would recommend freeCodeCamp to a friend?</label>
+		<label class="question">* How likely is that you would recommend freeCodeCamp to a friend?</label><br>
 		<input type="radio" name="recommend" id="recommend1"><label for="recommend1">Definitely</label> 
 		<br>
 		<input type="radio" name="recommend" id="recommend2">
@@ -47,8 +47,8 @@
 		<input type="checkbox" name="feedback4" value="opt4">
 		<label for="feedback4">Gitter help rooms</label>
 		<br><br>
-		<label for="text-area">Any comments or suggestions?</label>
-		<textarea name="text-area" id="text-area" placeholder="Enter any comments here..."></textarea><br><br>
+		<label for="text-area">Any comments or suggestions?</label><br>
+		<textarea name="text-area" id="text-area" placeholder="Enter any comments here..." wrap="200"></textarea><br><br>
 		<button id="submit">Submit</button>
 	</form>
 </body>
