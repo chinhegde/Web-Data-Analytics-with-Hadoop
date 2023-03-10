@@ -1,0 +1,794 @@
+type	conference_acronym	conference_name	conference_date	conference_location
+Big Data	BDSN  2022	The 10th International workshop on Big Data and Social Networking Management and Security	Nov 29, 2022	Milan, Italy
+Big Data	DSEA 2022	The 6th International Workshop on Data Science Engineering and its Applications	Nov 29, 2022	Milan, Italy
+Big Data	OSNT 2022	The 8th International Workshop on Online Social Networks Technologies	Nov 29, 2022	Milan, Italy
+Big Data	SNAMS 2022	The 9th International Conference on Social Networks Analysis, Management and Security	Nov 29, 2022	Milan, Italy
+Big Data	EAI BCBE  2022	EAI International Conference on Block chain, cloud computing and big data with education	Nov 25, 2022	Wuxi, People's Republic of China
+Big Data	BIENS 2022	6th International Conference on Biomedical Engineering and Science	Dec 22, 2022	Sydney, Australia
+Big Data	DNLP 2023	4th International Conference on Data Mining and NLP	Jan 2, 2023	Zurich, Switzerland
+Big Data	CLBD 2022	3rd International Conference on Data Mining and Software Engineering	Nov 12, 2022	Chennai, India
+Big Data	SIPO  2023	7th International Conference on Signal, Image Processing	Jan 2, 2023	Zurich, Switzerland
+Big Data	ICIT 2022	2022 The 10th International Conference on Information Technology: IoT and Smart City (ICIT 2022)	Dec 23, 2022	Shanghai, China
+Big Data	AIBD 2023	4th International Conference on Artificial Intelligence and Big Data	Jan 28, 2023	Copenhagen, Denmark
+Big Data	BDHI  2023	4th International Conference on Big Data & Health Informatics	Jan 2, 2023	Zurich, Switzerland
+Big Data	BDAB  2023	4th International Conference on Big Data and Blockchain 	Jan 28, 2023	Copenhagen, Denmark
+Big Data	DSA 2022	3rd International Conference on Data Science and Applications 	Dec 23, 2022	Sydney, Australia
+Big Data	DMDBS 2022	8th International Conference on Data Mining and Database Management Systems	Nov 19, 2022	Zurich, Switzerland
+Big Data	NET  2023	7th International Conference on Networks and Communications	Jan 2, 2023	Zurich, Switzerland
+Big Data	DMS 2022	13th International conference on Database Management Systems	Nov 12, 2022	Chennai, India
+Big Data	EAI BDTA 2022	12th EAI International Conference on Big Data Technologies and Applications	Dec 10, 2022	Cairo, Egypt
+Big Data	CSML 2023	International Conference on Computer Science and Machine Learning 	Jan 2, 2023	Zurich, Switzerland
+Big Data	BMLI 2022	3rd International Conference on Big Data, Machine Learning and IoT	Dec 22, 2022	Sydney, Australia
+Big Data	AIAA 2022	12th International Conference on Artificial Intelligence, Soft Computing and Applications	Dec 23, 2022	Sydney, Australia
+Big Data	CCCIOT 2023	4th International Conference on Cloud Computing and IOT 	Jan 28, 2023	Copenhagen, Denmark
+Big Data	MLDS 2022	3rd International Conference on Machine Learning Techniques and Data Science	Nov 26, 2022	London, United Kingdom
+Big Data	CNSA  2023	16th International Conference on Network Security & Applications	Feb 18, 2023	Dubai, UAE
+Big Data	CCSEIT  2023	13th International Conference on Computer Science, Engineering and Information Technology	Feb 18, 2023	Dubai, UAE
+Big Data	CICS 2023	11th International Conference on Instrumentation and Control Systems 	Feb 25, 2023	Vancouver, Canada
+Big Data	ICCIoT 2023	4th International Conference on Cloud and Internet of Things	Feb 18, 2023	Dubai, UAE
+Big Data	NIAI  2023	4th International Conference on Natural Language Processing, Information Retrieval and AI	Feb 18, 2023	Dubai, UAE
+Big Data	DSCC 2022	3rd International Conference on Data Science and Cloud Computing	Dec 17, 2022	Dubai, UAE
+Big Data	IOTBS  2023	3rd International Conference on IOT, Big Data and Security	Feb 25, 2023	Vancouver, Canada
+Big Data	DMDB 2023	10th International Conference on Data Mining and Database 	Feb 18, 2023	Dubai, UAE
+Big Data	ASUC 2023	14th International Conference on Ad hoc, Sensor & Ubiquitous Computing 	Mar 25, 2023	Sydney, Australia
+Big Data	NCO 2023	9th International Conference on Networks and Communications 	Mar 25, 2023	Sydney, Australia
+Big Data	ACM ICBTA 2022	ACM--2022 5th International Conference on Blockchain Technology and Applications (ICBTA 2022)	Dec 16, 2022	Xi'an, China
+Big Data	ICBDA 2023	IEEE--2023 the 8th International Conference on Big Data Analytics (ICBDA 2023)	Mar 3, 2023	Harbin, China
+Big Data	ACSIT 2023	11th International Conference of Advanced Computer Science & Information Technology	May 27, 2023	Vancouver, Canada
+Big Data	CBDA 2023	4th International Conference on Big Data	May 20, 2023	Zurich, Switzerland
+Big Data	BIoT  2023	4th International Conference on Blockchain and Internet of Things	Mar 18, 2023	Vienna, Austria
+Big Data	BDML 2023	4th International Conference on Big Data and Machine Learning 	Mar 18, 2023	Vienna, Austria
+Big Data	CoSIT  2023	10th International Conference on Computer Science and Information Technology 	May 20, 2023	Zurich, Switzerland
+Big Data	AIBT--Ei 2023	2023 The 2nd International Conference on Artificial Intelligence and Blockchain Technology (AIBT 2023)	Jan 13, 2023	Zibo, Shandong, China
+Big Data	IBTS 2023	2023 International Blockchain Technology Symposium (IBTS 2023)	Mar 17, 2023	Nice, France
+Big Data	ICBDSC 2023	ACM--2023 the 6th International Conference on Big Data and Smart Computing (ICBDSC 2023)	Jan 31, 2023	Palmerston North, New Zealand
+Big Data	ACM ICCNS 2022	ACM--2022 the 12th International Conference on Communication and Network Security (ICCNS 2022)	Dec 1, 2022	Beijing, China
+Big Data	ICTCE--Ei 2022	ACM--2022 The 5th International Conference on Telecommunications and Communication Engineering (ICTCE 2022)	Nov 28, 2022	Chengdu, China
+Big Data	NLPCL 2023	4th International Conference on Natural Language Processing and Computational Linguistics	Jul 22, 2023	Toronto, Canada
+Big Data	BIGML 2023	4th International conference on Big Data, Machine learning and Applications	Jul 22, 2023	Toronto, Canada
+Big Data	ICAIT  2023	12th International Conference on Advanced Computer Science and Information Technology	Jul 29, 2023	London, United Kingdom
+Big Data	NCWMC  2023	8th International Conference on Networks, Communications, Wireless and Mobile Computing	Jul 22, 2023	Toronto, Canada
+Big Data	CCSIT  2023	13th International Conference on Computer Science and Information Technology	Jul 22, 2023	Toronto, Canada
+Big Data	CBIoT  2023	4th International Conference on Cloud, Big Data and IoT 	Jul 29, 2023	London, United Kingdom
+Big Data	ICCC 2022	IEEE--2022 8th International Conference on Computer and Communications (ICCC 2022)	Dec 9, 2022	Chengdu, China
+Big Data	ACM-Ei/Scopus-PRDM 2022	2022 3rd International Conference on Pattern Recognition and Data Mining （PRDM 2022）-EI Compendex	Dec 23, 2022	Sanya, China
+Big Data	ACM-Ei/Scopus-MLBDM 2022	2022 2nd International Conference on Machine Learning and Big Data Management（MLBDM 2022）-EI Compendex	Dec 23, 2022	Sanya, China
+Big Data	ACM ICIIT 2023	ACM--2023 8th International Conference on Intelligent Information Technology (ICIIT 2023)	Feb 24, 2023	Da Nang, Vietnam
+Big Data	ACM ICCBN 2023	ACM--2023 11th International Conference on Communications and Broadband Networking (ICCBN 2023)	Feb 24, 2023	Xi'an, China
+Big Data	CCDC 2023	35th Chinese Control and Decision Conference	May 20, 2023	Yichang, China
+Big Data	ICIM 2023	IEEE--2023 the 9th International Conference on Information Management (ICIM 2023)	Mar 17, 2023	the University of Oxford, Oxford, UK
+Big Data	ICBICC 2022	2022 4th International Conference on Big Data, IoT, and Cloud Computing (ICBICC 2022)	Dec 2, 2022	Chengdu, China
+Big Data	ICGDA 2023	2023 6th International Conference on Geoinformatics and Data Analysis (ICGDA 2023)	Apr 13, 2023	Marseille, France
+Big Data	ICNS--Ei 2022	2022 The 7th International Conference on Network Security (ICNS 2022)	Dec 9, 2022	Beijing, China
+Big Data	ICBD--EI 2023	2023 International Conference on Big Data (ICBD 2023)	Jan 4, 2023	Guiyang, China
+Big Data	ICCDE 2023	ACM--2023 9th International Conference on Computing and Data Engineering (ICCDE 2023)	Jan 6, 2023	Haikou, China
+Big Data	SCSN 2023	The 11th IEEE International Workshop on Semantic Computing for Social Networks and Organization Sciences: from user information to social knowledge	Feb 1, 2023	Laguna Hills, CA, USA (Hybrid)
+Big Data	ICBDM--EI 2023	2023 the 6th International Conference on Big Data Management (ICBDM 2023)	Feb 17, 2023	Zhuhai, China
+Big Data	APIT 2023	ACM--2023 5th Asia Pacific Information Technology Conference (APIT 2023)	Feb 9, 2023	Ho Chi Minh, Vietnam
+Big Data	AIOTT--Ei 2023	2023 4th Asia IoT Technologies Conference (AIOTT 2023)	Jan 6, 2023	Beijing, China
+Big Data	INCC--Ei 2023	2023 International Conference on Information Network and Computer Communications (INCC 2023)	Jan 6, 2023	Beijing, China
+Big Data	GBDE 2023	2023 The 3rd Global Big Data Engineering Symposium (GBDE 2023)	Jan 10, 2023	Hangzhou, China
+Big Data	IoTBDS 2023	8th International Conference on Internet of Things, Big Data and Security	Apr 21, 2023	Lisbon, Portugal
+Big Data	FEMIB 2023	5th International Conference on Finance, Economics, Management and IT Business	Apr 23, 2023	Lisbon, Portugal
+Big Data	ICBDB 2022	2022 4th International Conference on Big Data and Blockchain(ICBDB 2022)	Dec 16, 2022	Beijing, China
+Big Data	EI-WBDC 2022	2022 4th International Workshop on Big Data and Computing(WBDC 2022)	Dec 16, 2022	Beijing, China
+Big Data	DSDE--Ei 2023	2023 the 6th International Conference on Data Storage and Data Engineering (DSDE 2023)	Feb 24, 2023	Mianyang, Sichuan, China
+Big Data	IDITR 2023	2023 2nd International Conference on Innovations and Development of Information Technologies and Robotics (IDITR 2023)	May 26, 2023	Chengdu, China 
+Big Data	China, DMCIT 2023	2023 7th International Conference on Data Mining, Communications and Information Technology (DMCIT 2023)	May 26, 2023	Chongqing, China
+Big Data	ICAIBD 2023	2023 IEEE The 6th International Conference on Artificial Intelligence and Big Data (ICAIBD 2023)	May 26, 2023	Chengdu, China
+Big Data	ETTIS 2023	3rd International Conference on Emerging Trends and Technologies on Intelligent Systems	Feb 23, 2023	New Delhi, India
+Big Data	ICCCBDA 2023	IEEE--2023 the 8th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA 2023)	Apr 26, 2023	Chengdu, China
+Big Data	ICBDC 2023	ACM--2023 8th International Conference on Big Data and Computing (ICBDC 2023)	May 26, 2023	Shenzhen, China
+Big Data	ICINT 2023	2023 8th International Conference on Information and Network Technologies (ICINT 2023)	May 19, 2023	Tokyo, Japan
+Big Data	ICDM 2023	23rd Industrial Conference on Data Mining	Jul 12, 2023	New York, USA
+Big Data	ICCSN 2023	IEEE--2023 15th International Conference on Communication Software and Networks (ICCSN 2023)	Jun 14, 2023	Shenyang, China 
+Big Data	ACBT 2023	2023 Asia Conference on Blockchain Technologies (ACBT 2023)	Jun 23, 2023	Seoul, South Korea
+Big Data	ITIOT 2023	2023 8th International Conference on Information Technology and Internet of Things (ITIOT 2023)	Jun 23, 2023	Seoul, South Korea
+Big Data	ICISPP 2023	IEEE--2023 4th International Conference on Information Security and Privacy Protection (ICISPP 2023)	Jul 8, 2023	Wuxi, China
+Big Data	ICCDA 2023	2023 The 7th International Conference on Compute and Data Analysis (ICCDA 2023)	Jul 20, 2023	Guiyang, China
+Big Data	SoCAV 2023	2023 International Symposium on Connected and Autonomous Vehicles (SoCAV 2023)	Apr 21, 2023	Shenzhen, China
+Big Data	ICMT 2023	2023 International Conference on Metaverse Technology (ICMT 2022)	Aug 11, 2023	Chengdu, China
+Big Data	IEEE SSCI 2023	2023 IEEE Symposium Series on Computational Intelligence	Dec 6, 2023	Mexico City, Mexico
+Big Data	ICACII 2023	2nd International Conference on Advances in Computational Intelligence and Informatics 	Dec 22, 2023	Hyderabad, India
+Big Data	WSIM 2022	2022 2nd International Workshop on Information Management (WSIM 2022)	Dec 2, 2022	London, UK
+Big Data	BDSIC--EI 2022	2022 4th International Conference on Big-data Service and Intelligent Computation (BDSIC 2022)	Nov 25, 2022	Xiamen, China
+Big Data	BIOM 2022	2nd International Conference on Big Data, IoT and Machine Learning	Oct 22, 2022	Sydney, Australia
+Big Data	CSCT 2022	Congress on Smart Computing Technologies	Dec 3, 2012	South Asian University, India 
+Big Data	SCDM 2022	Scalable Cloud Data Management Workshop	Dec 17, 2022	Osaka, Japan
+Big Data	ICSC 2023	IEEE International Conference on Semantic Computing	Feb 1, 2023	Laguna Hills, CA
+Big Data	IEEE ICCT--Ei 2022	2022 IEEE 22nd International Conference on Communication Technology (22nd IEEE ICCT)	Nov 11, 2022	Nanjing, China
+Big Data	IOP, EI, Scopus-EMECS 2022	2022 International Conference on Electronics, Mechanical Engineering and Computer Science (EMECS 2022)-EI Compendex	Oct 21, 2022	Xiamen, China
+Big Data	ICSESS 2022	2022 13th International Conference on Software Engineering and Service Science 	Oct 21, 2022	Beijing,China
+Big Data	ICBDM 2022	2022 3rd International Conference on Big Data in Management (ICBDM 2022)	Nov 7, 2022	Charleston, South Carolina, USA
+Big Data	ICISE--EI 2022	2022 the 7th International Conference on Information Systems Engineering (ICISE 2022)	Nov 7, 2022	Charleston, South Carolina, USA
+Big Data	EAI BDCC 2022	5th EAI International Conference on Big Data Innovation for Sustainable Cognitive Computing	Dec 16, 2022	Coimbatore, India
+Big Data	EuroSymposium 2022	The XIVth EuroSymposium on Digital Transformation, 2022, University of Gdansk, Poland (videoconference, hybrid)	Dec 15, 2022	Videoconference (Sopot, Poland)
+Big Data	ISM 2022	IEEE International Symposium on Multimedia 	Dec 5, 2022	Naples, Italy
+Big Data	BigMM 2022	IEEE International Conference on Multimedia Big Data	Dec 5, 2022	Naples, Italy
+Big Data	IEEE ICCBD 2022	IEEE--2022 5th International Conference on Computing and Big Data (ICCBD 2022)	Oct 28, 2022	Shanghai, China
+Big Data	HotICN 2022	2022 5th International Conference on Hot Information-Centric Networking (HotICN 2022)	Nov 24, 2022	Guangzhou, China
+Big Data	WBDS--JA, Scopus 2022	2022 The 2nd Workshop on Big Data Sciences (WBDS 2022)--JA, Scopus	Oct 14, 2022	Tokyo, Japan
+Big Data	BDCAT 2022	9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies	Dec 6, 2022	Portland, Oregon, USA
+Big Data	WIOTT--JA, Scopus 2022	2022 The 2nd Workshop on Internet of Things Technologies (WIOTT 2022)--JA, Scopus	Oct 14, 2022	Tokyo, Japan
+Big Data	ICCT 2023	3rd International Conference on Intelligent Communication and Computational Techniques 	Jan 19, 2023	Jaipur, India
+Big Data	Intel4EC 2022	International Workshop on Intelligent and Adaptive Edge-Cloud Operations and Services collocated with IEEE/ACM Conference on Utility and Cloud Computing (UCC 2022)	Dec 6, 2022	Portland, Oregon, USA
+Big Data	ICoIV 2022 - Ei Compendex & Scopus 2022	2022 International Conference on Intelligent Vehicles (ICoIV 2022)	Oct 14, 2022	Chengdu, China
+Big Data	ICCIS 2022	IEEE--2022 6th International Conference on Communication and Information Systems (ICCIS 2022)	Oct 14, 2022	Chongqing, China
+Big Data	ICITS 2023	6th International Conference on Information Technology and Systems	Feb 8, 2023	Cusco, Peru
+Big Data	IEEE BigData 2022	2022 IEEE International Conference on Big Data	Dec 17, 2022	Osaka, Japan
+Big Data	IEEE-CCBDIoT 2022	2022 International Conference on Computing, Big Data and Internet of Things (CCBDIoT 2022)	Sep 23, 2022	Xi'an, China
+Big Data	ICDMAI 2023	7th International Conference on Data Management, Analytics and Innovation	Jan 20, 2023	Pune, India
+Big Data	DMBD 2022	The Seventh International Conference on Data Mining and Big Data	Nov 21, 2022	Beijing, China
+Big Data	Springer--ICENAT 2022	Springer--2022 International Conference on Emerging Networking Architecture and Technologies (ICENAT 2022)	Oct 15, 2022	Shenzhen, China
+Big Data	DMBD 2022	7th International Conference on Data Mining and Big Data 	Nov 21, 2022	Beijing, China
+Big Data	DMBD 2022	DMBD'2022: Call for Special Session Proposals & Call for Papers 	Nov 21, 2022	Beijing,China
+Big Data	ABCSS 2022	The 7th International Workshop on Application of Big Data for Computational Social Science	Nov 17, 2022	Niagara Falls, Canada
+Big Data	ICTC 2022	Extended Deadline (Firm Deadline): Aug. 22 (Hybrid: Virtual & In Person, Jeju Island, South Korea)  - The 13th International Conference on ICT Convergence - 	Oct 19, 2022	Jeju Island, South Korea
+Big Data	IEEE--ISCIT 2022	IEEE--2022 21th International Symposium on Communications and Information Technologies (ISCIT 2022)	Sep 27, 2022	Xi'an, China
+Big Data	ACM BDCI 2022	ACM--2022 The 2nd International Conference on Big Data and Computational Intelligence (BDCI 2022)	Sep 28, 2022	Xiamen, China
+Big Data	BDML 2022	2022 5th International Conference on Big Data and Machine Learning (BDML 2022)	Sep 23, 2022	Xiamen, China
+Big Data	DRBSD 2022	International Workshop on Data Analysis and Reduction for Big Scientific Data	Nov 13, 2022	Dallas, TX
+Big Data	CBD  2022	2022 The Tenth International Conference on Advanced Cloud and Big Data	Nov 4, 2022	Guilin, China
+Big Data	AIBDCA 2022	2022 International Conference on Artificial Intelligence, Big Data and Computer Applications	Nov 4, 2022	Huanggang, China
+Big Data	ACM--ICBDT 2022	ACM--2022 5th International Conference on Big Data Technologies (ICBDT 2022)	Sep 23, 2022	Qingdao, China
+Big Data	ACM--CCIOT 2022	ACM--2022 7th International Conference on Cloud Computing and Internet of Things (CCIOT 2022)	Sep 23, 2022	University of Ryukyu, Okinawa, Japan
+Big Data	ACM--ICENT 2022	ACM--2022 4th International Conference on Emerging Networks Technologies (ICENT 2022)	Sep 23, 2022	University of Ryukyu, Okinawa, Japan
+Big Data	ICAISE 2022	The 4th International Conference on Artificial Intelligence and Smart  Environment	Nov 24, 2022	Errachidia, MOROCCO
+Big Data	PAAP 2022	The 13th International Symposium on Parallel Architectures, Algorithms and Programming	Nov 4, 2022	Beijing, China
+Big Data	WSCE 2022	IEEE--2022 The 5th World Symposium on Communication Engineering (WSCE 2022)	Sep 16, 2022	Nagoya University, Japan
+Big Data	XLOOP 2022	4th Annual Workshop on Extreme-scale Experiment-in-the-Loop Computing	Nov 18, 2022	Dallas, TX
+Big Data	IEEE CSE  2022	The 25th IEEE International Conference on Computational Science and Engineering	Oct 28, 2022	Wuhan, China
+Big Data	EAI IoTCare  2022	3rd EAI International Conference on IoT and Big Data Technologies for HealthCare	Oct 17, 2022	Leicester, Great Britain
+Big Data	ICCBDC 2022	ACM--2022 6th International Conference on Cloud and Big Data Computing (ICCBDC 2022)	Aug 18, 2022	Birmingham, United Kingdom
+Big Data	IWBIS 2022	IWBIS 2022 : THE 7TH INTERNATIONAL WORKSHOP ON BIG DATA AND INFORMATION SECURITY	Oct 1, 2022	Jakarta, Indonesia
+Big Data	BDEE 2022	2022 The 2nd International Conference on Big Data Engineering and Education (BDEE 2022)	Aug 5, 2022	Chengdu, China
+Big Data	IDSTA 2022	The IEEE International Conference on Intelligent Data Science Technologies and Applications	Sep 5, 2022	San Antonio, USA
+Big Data	GC 2022	Graph Computing	Sep 19, 2022	Laguna Hills, CA
+Big Data	ICBDR--Ei, Scopus 2022	2022 The 6th International Conference on Big Data Research (ICBDR 2022)--Ei Compendex, Scopus	Aug 10, 2022	Harbin, China
+Big Data	AI4I 2022	5th International Conference on Artificial Intelligence for Industries	Sep 19, 2022	Laguna Hills, California, USA
+Big Data	TransAI 2022	IEEE International Conference on Transdisciplinary AI	Sep 19, 2022	Laguna Hills, CA
+Big Data	AIKE 2022	IEEE Artificial Intelligence & Knowledge Engineering 	Sep 19, 2022	Laguna Hills, CA
+Big Data	ACM--ICCCM 2022	ACM--2022 The 10th International Conference on Computer and Communications Management (ICCCM 2022)	Jul 29, 2022	Okayama University, Japan
+Big Data	ICCFI--Ei, Scopus 2022	2022 The 6th International Conference on Communications and Future Internet (ICCFI 2022)	Jul 29, 2022	Okayama University, Japan
+Big Data	IEEE--DSIT 2022	2022 IEEE 5th International Conference on Data Science and Information Technology (DSIT 2022)	Jul 22, 2022	Shanghai, China
+Big Data	IEEE CSDE 2022	9th IEEE Asia-Pacific Conference on Computer Science and Data Engineering	Dec 14, 2022	Gold Coast, Queensland, Australia
+Big Data	ACM--ICICM 2022	ACM--2022 12th International Conference on Information Communication and Management (ICICM 2022)	Jul 13, 2022	London, United Kingdom
+Big Data	BDAML--Ei Compendex, Scopus 2022	2022 International Conference on Big Data Analysis and Machine Learning (BDAML 2022)--Ei Compendex, Scopus	Jul 20, 2022	Suzhou, China
+Big Data	BCCA 2022	The 4th IEEE International Conference on Blockchain Computing and Applications	Sep 5, 2022	San Antonio, USA
+Big Data	ICAIT--Ei, Scopus 2022	2022 The 14th International Conference on Advanced Infocomm Technology (ICAIT 2022)--Ei Compendex, SCOPUS	Jul 8, 2022	Chongqing, China
+Big Data	ACM ICIME 2022	ACM--2022 14th International Conference on Information Management and Engineering (ICIME 2022)--Ei Compendex, Scopus	Oct 21, 2022	Zhenjiang, China
+Big Data	ICCCI 2022	IEEE--2022 The 4th International Conference on Computer Communication and the Internet (ICCCI 2022)	Jul 1, 2022	Chiba, Japan
+Big Data	IN4PL 2022	3rd International Conference on Innovative Intelligent Industrial Production and Logistics	Oct 24, 2022	Valletta, Malta
+Big Data	CIKM 2022	Call for Applied Research Papers (CIKM 2022)	Oct 17, 2022	Atlanta, Georgia, USA
+Big Data	ICDPA--Scopus, Ei 2022	2022 The 8th International Conference on Data Processing and Applications (ICDPA 2022)--Scopus, Ei Compendex	Jun 24, 2022	Xiamen, China
+Big Data	ICITS--EI, SCOPUS 2022	2022 The 10th International Conference on Information Technology and Science (ICITS 2022)--Scopus, Ei Compendex	Jun 24, 2022	Xiamen, China
+Big Data	cluster 2022	IEEE Cluster Conference	Sep 6, 2022	Heidelberg, Germany
+Big Data	BDNT 2022	8th International workshop on Big Data and Networks Technologies (BDNT 2022)	Aug 9, 2022	Ontario, Canada
+Big Data	BECS 2022	2nd International Workshop on Big data driven Edge Cloud Services	Jul 5, 2022	Bari, Italy
+Big Data	ICIMP--EI Compendex and Scopus 2022	2022 The 5th International Conference on Information Management and Processing (ICIMP 2022)--Ei Compendex, Scopus	Jun 10, 2022	Rome, Italy
+Big Data	DBB   2022	The 3rd International Conference on Deep Learning, Big Data and Blockchain	Aug 22, 2022	Rome, Italy
+Big Data	BECS 2022	2nd International Workshop on Big data driven Edge Cloud Services	Jul 5, 2022	Bari, Italy
+Big Data	FICTA 2022	10th International Conference on Frontiers of Intelligent Computing: Theory and Applications	Jun 18, 2022	Aizawl, Mizoram, India
+Big Data	ESDPS  2022	IEEE Smart Data Workshop on Emerging Smart Data Applications in New Power Systems	Aug 22, 2022	Espoo, Finland
+Big Data	BlockSys--Ei Compendex, SCI, ESCI 2022	2022 International Conference on Blockchain and Trustworthy Systems (BlockSys'2022)--Ei Compendex, SCI, ESCI	Aug 4, 2022	Chengdu, China
+Big Data	JCC-BD&ET 2022	[Deadline extended] JCC-BD&ET 2022: 10th Conference on Cloud Computing, Big Data & Emerging Topics --Springer CCIS (Ei Compendex & Scopus)	Jun 28, 2022	La Plata, Argentina
+Big Data	ICDPCS 2022	1st International Conference on Data Processing, Control and Simulation	May 13, 2022	Wuhan, China
+Big Data	APWeb-WAIM 2022	The 6th APWeb-WAIM International Joint Conference on Web and Big Data	Oct 14, 2022	Nanjing, China
+Big Data	ENHANCE 2022	Enabling Technologies and Dependability in Cyber-Physical Systems	Jun 20, 2022	Budapest, Hungary
+Big Data	IMMM 2022	The Twelfth International Conference on Advances in Information Mining and Management	Jun 26, 2022	Porto, Portugal
+Big Data	ACCSE 2022	The Seventh International Conference on Advances in Computation, Communications and Services	Jun 26, 2022	Porto, Portugal
+Big Data	APWeb-WAIM 2022	The 6th APWeb-WAIM International Joint Conference on Web and Big Data	Aug 11, 2022	Nanjing, China
+Big Data	APWeb-WAIM 2022	The 6th APWeb-WAIM International Joint Conference on Web and Big Data	Aug 11, 2022	Nanjing, China
+Big Data	SEBD 2022	30th Symposium on Advanced Database Systems	Jun 19, 2022	Tirrenia, Pisa (Tuscany), Italy
+Big Data	IEEE COINS 2022	International Conference on Omni-Layer Intelligent Systems Internet of Things IoT | Artificial Intelligence | Machine Learning | Big Data | Blockchain | Edge & Cloud Computing | Se	Aug 1, 2022	Barcelona, Spain
+Big Data	DATA 2022	11th International Conference on Data Science, Technology and Applications	Jul 11, 2022	Lisbon, Portugal
+Big Data	DeLTA 2022	3rd International Conference on Deep Learning Theory and Applications	Jul 12, 2022	Lisbon, Portugal
+Big Data	ICoDT 2022	2nd IEEE International Conference on Digital Futures and Transformative Technologies 	May 24, 2022	College of EME, Rawalpindi, Pakistan 
+Big Data	ITAIC 2022	10th IEEE Joint International Information Technology and Artificial Intelligence Conference	Jun 17, 2022	Chongqing, China
+Big Data	SMDB 2022	The 13th International Workshop on Self-Managing Database Systems (SMDB 2022)	May 9, 2022	Kuala Lumpur, Malaysia (or Online)
+Big Data	ALLDATA 2022	The Eighth International Conference on Big Data, Small Data, Linked Data and Open Data	Apr 24, 2022	Barcelona, Spain
+Big Data	ALLDATA 2022	8th International Conference on Big Data, Small Data, Linked Data and Open Data	Apr 24, 2022	Barcelona, Spain
+Big Data	IFCS 2022	Classification and Data Science in the Digital Age	Jul 19, 2022	Porto, Portugal
+Big Data	IFCS 2022	Classification and Data Science in the Digital Age	Jul 19, 2022	Porto, Portugal
+Big Data	CMSBD2021	2021 International Conference on Computer Modeling, Simulation and Big Data (CMSBD2021)	Nov 14, 2021	Shenzhen, China
+Big Data	Privacy 2021	The 2021 International Symposium on Privacy, Security and Smart Cities	Dec 16, 2021	Newcastle upon Tyne, UK
+Big Data	SCDM 2021	SCDM 2021 : Scalable Cloud Data Management Workshop	Dec 15, 2021	Remote (orig. Orlando, FL/USA)
+Big Data	HPBD&IS 2021	3rd International Conference on High Performance Big Data and Intelligent Systems	Dec 5, 2021	Macau, China
+Big Data	ICFIC 2021	2021 International Conference on Future Intelligent Computing	Nov 18, 2021	Daegu University, Korea
+Big Data	KG@SAC 2022	ACM SAC 2022 Track on Knowledge Graphs	Apr 25, 2022	Brno, Czech Republic
+Big Data	ICACCI 2021	11th International Conference on Advanced Computing, Communication and Information Science	Nov 26, 2021	Busan, South Korea
+Big Data	DSEA 2021	The 5th International Workshop on Data Science Engineering and its Applications	Dec 6, 2021	Gandia, Spain
+Big Data	OSNT 2021	The 7th International Workshop on Online Social Networks Technologies	Dec 6, 2021	Gandia, Spain
+Big Data	ANLP 2021	The 5th International Workshop on Advances in Natural Language Processing	Dec 6, 2021	Gandia, Spain
+Big Data	SCICE 2021	The International Workshop on Smart Community with IoT, Cloud, and Edge Computing	Dec 6, 2021	Gandia, Spain
+Big Data	EAI BDCC 2021	4th EAI International Conference on Big Data Innovation for Sustainable Cognitive Computing (Springer, Scopus, Ei Compendex, more)	Dec 17, 2021	Coimbatore, India
+Big Data	BDSN 2021	The 9th International workshop on Big Data and Social Networking Management and Security	Dec 6, 2021	Gandia, Spain
+Big Data	ICCIC 2021	International Conference on Cognitive and Intelligent Computing	Dec 11, 2021	Hyderabad, India
+Big Data	SDM 2022	SIAM International Conference on Data Mining	Apr 28, 2022	Alexandria, Virginia, USA
+Big Data	SITAIBA 2021	SITAIBA 2021 : 2021 International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications	Nov 18, 2021	Taichung City, TAIWAN
+Big Data	ABCSS 2021	The 6th International Workshop on Application of Big Data for Computational Social Science	Dec 14, 2021	Melbourne, Australia
+Big Data	IoMT-CAS 2021	The Internet of Multimedia Things, Communications, Applications, and Security	Nov 15, 2021	Tartu, Estonia
+Big Data	IIoTBDSC 2021	The 2nd International Conference on Industrial IoT, Big Data and Supply Chain (IIoTBDSC 2021) 	Oct 15, 2021	Macao, SAR of China and online
+Big Data	IEEE SSCI 2021	2021 IEEE Symposium Series on Computational Intelligence	Dec 5, 2021	Orlando, Florida, USA
+Big Data	BigMM 2021	IEEE International Conference on Multimedia Big Data 2021	Nov 15, 2021	Taichung, Taiwan
+Big Data	IEEE CCEM 2021	The Tenth IEEE International Conference on Cloud Computing in Emerging Markets (CCEM), 27th - 30th October 2021, New Jersey, USA	Oct 27, 2021	NEW JERSY, USA
+Big Data	ICSESS 2021	2021 12th International Conference on Software Engineering and Service Science 	Aug 20, 2021	Beijing,China
+Big Data	HPBD 2021	Workshop on High-Performance and Reliable Big Data	Sep 20, 2021	Chicago, USA
+Big Data	ai4i 2021	Artificial Intelligence for Industries (ai4i 2021)	Sep 20, 2021	Laguna Hills, California, USA
+Big Data	CSoNet  2021	CSoNet 2021 Call for Papers	Nov 15, 2021	Montreal, Quebec, Canada
+Big Data	CBD 2021	The Ninth International Conference on Advanced Cloud and Big Data	Oct 15, 2021	Xi'an, China
+Big Data	EAI IoTCare 2021	2nd EAI International Conference on IoT and Big Data Technologies for HealthCare	Oct 18, 2021	Leicester, Great Britain
+Big Data	IEEE COINS 2021	International Conference on Omni-Layer Intelligent Systems Internet of Things IoT | Artificial Intelligence | Machine Learning | Big Data | Blockchain | Edge & Cloud Computing	Aug 23, 2021	Barcelona, Spain
+Big Data	IEEE COINS 2021	IEEE COINS | IoT , AI, and Big Data for Healthcare Track	Aug 23, 2021	Barcelona, Spain
+Big Data	IEEE COINS 2021	AI ML Big Data Vision Track | Artificial Intelligence | Machine Learning | Deep Learning | Machine Vision | Big Data Analytics | Video Analytics	Aug 23, 2021	Barcelona, Spain
+Big Data	CLUSTER 2021	23rd IEEE Cluster Conference	Sep 7, 2021	Portland, Oregon, USA
+Big Data	DaWaK 2021	The 23rd International Conference on Big Data Analytics and Knowledge Discovery	Sep 27, 2021	Linz, Austria (Virtual)
+Big Data	EAI BigIoT-EDU (virtual) 2021	EAI International Conference on Application of Big Data, Blockchain, and Internet of Things for Education Informatization (online conference)	Aug 1, 2021	N/A, Cyberspace
+Big Data	BigData 2021	IEEE International Conference on Big Data 2021 Data Challenges	Dec 15, 2021	Orlando, FL
+Big Data	JCC-BD&ET 2021	9th Conference on Cloud Computing, Big Data & Emerging Topics--Springer CCIS (Ei Compendex & Scopus)	Jun 21, 2021	La Plata, Argentina
+Big Data	LOD  2021	The 7th Online & Onsite International Conference on Machine Learning, Optimization & Data Science 	Oct 5, 2021	Grasmere, Lake District, England – UK
+Big Data	MegaData 2021	International Workshop on Advanced Data Systems Management, Engineering, and Analytics	Aug 24, 2021	Tartu, Estonia
+Big Data	ICUIA 2021	International Conference on Urban Intelligence and Applications 2021	Jul 30, 2021	Hefei, China
+Big Data	MESS 2020	Metaheuristics Summer School 2020+1 :: Learning & Optimization from Big Data	Jun 15, 2021	Catania, Italy
+Big Data	SMC 2021	 Smoky Mountains Computational Sciences & Engineering Conference 2021	Aug 24, 2021	Oak Ridge, TN
+Big Data	EAI eLEOT  2021	7th EAI International Conference on e-Learning e-Education and Online Training	Jun 20, 2021	Xinxiang, PRC
+Big Data	ICWE Workshops 2021	ICWE 2021 - Workshops Joint Call for Papers	May 18, 2021	Biarritz, France
+Big Data	KDWEB  2021	Seventh International Workshop on Knowledge Discovery on the Web	May 20, 2021	Biarritz, France
+Big Data	ITISE 2021	7th International Conference on Time Series and Forecasting (ITISE 2021)	Jul 19, 2021	Gran Canaria, Spain
+Big Data	ICDSA 2021	2nd International Conference on Data Science and Applications	Apr 10, 2021	Kolkata, India
+Big Data	IEEE HPSC 2021	7th IEEE International Conference on High Performance and Smart Computing	May 15, 2021	New York, USA
+Big Data	Auto-DaSP 2021	International Workshop on Autonomic Solutions for Parallel and Distributed Data Stream Processing	Apr 19, 2021	Rennes, France (probably online)
+Big Data	ICDM 2023	23th Industrial Conference on Data Mining	Jul 12, 2023	New York, USA
+Big Data	ICDM 2021	21th Industrial Conference on Data Mining 	Jul 14, 2021	New York, USA
+Big Data	SIMPLIFY 2021	1st International Workshop on Data Analytics and Machine Learning Made Simple	Mar 23, 2021	Nicosia, Cyprus
+Big Data	RDAAPS 2021	Reconciling Data Analytics, Automation, Privacy, and Security: A Big Data Challenge	May 17, 2021	McMaster University, Hamilton ON, Canada
+Big Data	PAKDD 2021	Pacific-Asia Conference on Knowledge Discovery and Data Mining	May 11, 2021	Delhi, India
+Big Data	BDSN 2020	The 8th International workshop on Big Data and Social Networking Management and Security	Dec 14, 2020	Paris, France
+Big Data	OSNT 2020	The Fifth International Workshop on Online Social Networks Technologies	Dec 14, 2020	Paris, France
+Big Data	EAI BDTA 2020	(Virtual) 10th EAI International Conference on Big Data Technologies and Applications	Dec 11, 2020	Wuhan, People's Republic of China
+Big Data	IWSMAI 2021	CFP: The 2nd International Workshop on Statistical Methods and Artificial Intelligence	Mar 23, 2021	WARSAW, POLAND
+Big Data	U2BigData 2020	User Understanding from Big Data Workshop - in conjunction with IEEE Big Data 2020	Dec 10, 2020	Atlanta, GA
+Big Data	IWBDR 2020	 International Workshop on Big Data Reduction	Dec 10, 2020	Virtual, USA
+Big Data	ICSC 2021	International Conference on Semantic Computing	Jan 27, 2021	Laguna Hills, CA
+Big Data	EAI BDCC 2020	BDCC 2020 - 3rd EAI International Conference on Big Data Innovation for Sustainable Cognitive Computing	Dec 18, 2020	Coimbatore, India
+Big Data	SABID 2020	SABID 2020: WORKSHOP ON SOLAR & STELLAR ASTRONOMY BIG DATA (online)	Dec 13, 2020	online, part of IEEE BigData 2020
+Big Data	DPM 2020	Discriminative Pattern Mining Workshop	Dec 10, 2020	Atlanta, Georgia, USA
+Big Data	ICSESS 2020	 2020 the 11th International Conference on Software Engineering and Service Science 	Oct 16, 2020	Beijing,China
+Big Data	IEEE BigComp  2021	2021 IEEE International Conference on Big Data and Smart Computing	Jan 17, 2021	Bangkok, Thailand
+Big Data	IEEE BigComp  2021	2021 IEEE International Conference on Big Data and Smart Computing	Jan 17, 2021	Jeju Island, Korea
+Big Data	MEDES 2020	The 12th International Conference on Management of Digital EcoSystems	Nov 2, 2020	Abu Dhabi, UAE
+Big Data	ibdaa 2020	Workshop on IoT based Big Data Architectures and Applications - in conjunction with IEEE Big Data 2020	Dec 10, 2020	Atlanta, Georgia
+Big Data	ICMBWA 2020	International Conference on Managing Business through Web Analytics	Dec 7, 2020	Khemis Miliana, Algeria
+Big Data	IEEE BigDataSE 2021	The 14th IEEE International Conference on Big Data Science and Engineering	Dec 29, 2020	Guangzhou, China
+Big Data	AICI 2021	The Second International Conference on Artificial Intelligence and Computational Intelligence (AICI 2021)	Jan 15, 2021	Hanoi, Vietnam
+Big Data	Big Data 2020	IEEE International Conference on Big Data	Dec 13, 2020	Atlanta, GA, USA
+Big Data	CSoNet  2020	9th International Conference on Computational Data and Social Networks	Dec 11, 2020	Dallas, TX
+Big Data	IDSTA 2020	IEEE co-sponsored International Conference on Intelligent Data Science Technologies and Applications	Oct 19, 2020	Valencia, Spain
+Big Data	AusDM 2020	The 18th Australasian Data Mining Conference 2020	Dec 1, 2020	Canberra, Australia
+Big Data	BDCAT 2020	7th IEEE/ACM Big Data Computing, Application Technology	Dec 7, 2020	Leicester, UK
+Big Data	IEEE BigDataSE 2020	The 14th IEEE International Conference on Big Data Science and Engineering	Dec 29, 2020	Guangzhou, China
+Big Data	BDNT- 2020	The 6th International workshop on Big Data and Networks Technologies	Nov 2, 2020	Madeira, Portugal
+Big Data	BDNT- 2020	The 6th International workshop on Big Data and Networks Technologies	Nov 2, 2020	Madeira, Portugal
+Big Data	BDNT 2020	The 6th International workshop on Big Data and Networks Technologies	Nov 2, 2020	Madeira, Portugal
+Big Data	CloudCom 2020	The 12th IEEE International Conference on  Cloud Computing Technology and Science	Dec 14, 2020	Bangkok, Thailand
+Big Data	IIoTBDSC 2020	The First International Conference on Industrial IoT Big Data and Supply Chain (IIoTBDSC) 	Sep 15, 2020	Macao, SAR of China
+Big Data	BDA 2020	8th International Conference on Big Data Analytics	Dec 15, 2020	Ashoka University, Sonipat, India
+Big Data	SIMBig 2020	7th International Conference on Information Management and Big Data	Oct 1, 2020	Lima, Peru
+Big Data	WITCOM  2020	The 9th International Congress of   Telematics & Computing	Nov 2, 2020	Puerto Vallarta, Jalisco, Mexico
+Big Data	IDEAL 2020	21st International Conference on Intelligent Data Engineering and Automated Learning	Nov 4, 2020	Guimarães, Portugal
+Big Data	BDBI 2020	3rd Workshop on Big Data and Business Intelligence	Oct 8, 2020	lisbon, Portugal
+Big Data	WBDBI- 2020	3rd Workshop on Big Data and Business Intelligence	Oct 8, 2020	Lisbon, Portugal
+Big Data	BDNT 2020	The 6th International workshop on Big Data and Networks Technologies	Nov 2, 2020	Madeira, Portugal
+Machine Learning	BDSN  2022	The 10th International workshop on Big Data and Social Networking Management and Security	Nov 29, 2022	Milan, Italy
+Machine Learning	DSEA 2022	The 6th International Workshop on Data Science Engineering and its Applications	Nov 29, 2022	Milan, Italy
+Machine Learning	OSNT 2022	The 8th International Workshop on Online Social Networks Technologies	Nov 29, 2022	Milan, Italy
+Machine Learning	ANLP 2022	The 6th International Workshop on Advances in Natural Language Processing	Nov 29, 2022	Milan, Italy
+Machine Learning	SAMSN 2022	The 5th International Workshop on Sentiment Analysis and Mining of Social Networks	Nov 29, 2022	Milan, Italy
+Machine Learning	MCSMS 2022	The 8th International Workshop on Mobile Cloud Computing systems, Management, and Security	Nov 29, 2022	Milan, Italy
+Machine Learning	HMiMS 2022	The 4th International Symposium on Health and Medical informatics, Management and Security	Nov 29, 2022	Milan, Italy
+Machine Learning	NETWORKS 2022	6th International Conference on Networks & Communications	Nov 19, 2022	Zurich, Switzerland
+Machine Learning	NATL 2022	8th International Conference on Natural Language Computing 	Nov 19, 2022	Zurich, Switzerland
+Machine Learning	CSML 2023	International Conference on Computer Science and Machine Learning 	Jan 2, 2023	Zurich, Switzerland
+Machine Learning	AE 2022	6th International Conference on Advances in Engineering	Dec 22, 2022	Sydney, Australia
+Machine Learning	MLSC 2023	4th International Conference on Machine Learning and Soft Computing 	Jan 28, 2023	Copenhagen, Denmark
+Machine Learning	BIOS 2022	8th International Conference on Bioinformatics & Biosciences 	Oct 29, 2022	Vienna, Austria
+Machine Learning	SCAI 2022	11th International Conference on Soft Computing, Artificial Intelligence and Applications	Nov 26, 2022	London, United Kingdom
+Machine Learning	NLMLT 2022	International Conference on NLP and Machine Learning Trends	Nov 12, 2022	Chennai, India
+Machine Learning	ACM ICCAI 2023	ACM--2023 9th International Conference on Computing and Artificial Intelligence (ICCAI 2023)--SCI	Mar 17, 2023	Tianjin, China
+Machine Learning	AI4Science 2022	AI for Science, NASSMA workshop	Dec 12, 2022	Rabat, Morocco
+Machine Learning	ITCS 2022	11th International Conference on Information Technology Convergence and Services	Nov 12, 2022	Chennai, India
+Machine Learning	SOEA 2023	7th International Conference on Software Engineering and Applications  	Jan 2, 2023	Zurich, Switzerland
+Machine Learning	WeST 2022	14th International Conference on Web services & Semantic Technology	Dec 23, 2022	Sydney, Australia
+Machine Learning	AI 2022	8th International Conference on Artificial Intelligence and Applications	Oct 29, 2022	Vienna, Austria
+Machine Learning	Fuzzy 2022	8th International Conference on Fuzzy Logic Systems	Nov 19, 2022	Zurich, Switzerland
+Machine Learning	DSA 2022	3rd International Conference on Data Science and Applications 	Dec 23, 2022	Sydney, Australia
+Machine Learning	FinancialNews&Data-IEEE-BigData 2022	The 6th IEEE International Workshop on Big Data for Financial News and Data	Dec 17, 2022	Osaka, Japan (also Online)
+Machine Learning	ACITY 2022	12th International Conference on Advances in Computing and Information Technology	Dec 23, 2022	Sydney, Australia
+Machine Learning	MLIOB 2023	4th International Conference on Machine Learning, IOT and Blockchain	Jan 2, 2023	Zurich, Switzerland
+Machine Learning	NLAI 2022	3rd International Conference on NLP & Artificial Intelligence Techniques	Nov 26, 2022	London, United Kingdom
+Machine Learning	BDAB  2023	4th International Conference on Big Data and Blockchain 	Jan 28, 2023	Copenhagen, Denmark
+Machine Learning	ICSS 2022	8th International Conference on Software Security 	Dec 23, 2022	Sydney, Australia
+Machine Learning	AI 2022	8th International Conference on Artificial Intelligence and Applications	Oct 29, 2022	Vienna, Austria
+Machine Learning	AIAA 2022	12th International Conference on Artificial Intelligence, Soft Computing and Applications	Dec 23, 2022	Sydney, Australia
+Machine Learning	CSTY 2022	8th International Conference on Computer Science and Information Technology	Oct 29, 2022	Vienna, Austria
+Machine Learning	CLBD 2022	3rd International Conference on Data Mining and Software Engineering	Nov 12, 2022	Chennai, India
+Machine Learning	AIAA 2022	12th International Conference on Artificial Intelligence, Soft Computing and Applications	Dec 23, 2022	Sydney, Australia
+Machine Learning	BMLI 2022	3rd International Conference on Big Data, Machine Learning and IoT	Dec 22, 2022	Sydney, Australia
+Machine Learning	SPPR 2022	11th International Conference on Signal, Image Processing and Pattern Recognition	Nov 26, 2022	London, United Kingdom
+Machine Learning	NLMLT 2022	International Conference on NLP and Machine Learning Trends	Nov 12, 2022	Chennai, India
+Machine Learning	MLDS 2022	3rd International Conference on Machine Learning Techniques and Data Science	Nov 26, 2022	London, United Kingdom
+Machine Learning	BDHI  2023	4th International Conference on Big Data & Health Informatics	Jan 2, 2023	Zurich, Switzerland
+Machine Learning	CST 2022	9th International Conference on Foundations of Computer Science & Technology	Nov 12, 2022	Chennai, India
+Machine Learning	AI 2022	8th International Conference on Artificial Intelligence and Applications	Oct 29, 2022	Vienna, Austria
+Machine Learning	ICCSEA 2022	12th International Conference on Computer Science, Engineering and Applications	Nov 26, 2022	London, United Kingdom
+Machine Learning	SIGML 2023	4th International Conference on Signal Processing and Machine Learning 	Feb 18, 2023	Dubai, UAE
+Machine Learning	AIAP  2023	10th International Conference on Artificial Intelligence and Applications 	Feb 18, 2023	Dubai, UAE
+Machine Learning	CEEE  2022	4th International Conference on Applied Control, Electrical and Electronics Engineering	Dec 17, 2022	Dubai, UAE
+Machine Learning	AIMLA 2023	3rd International Conference on AI, Machine Learning and Applications	Feb 25, 2023	Vancouver, Canada
+Machine Learning	CSE 2022	10th International Conference on Computational Science and Engineering	Dec 17, 2022	Dubai, UAE
+Machine Learning	MLAEDU 2022	International Conference on Machine Learning, AI and Education	Dec 17, 2022	Dubai, UAE
+Machine Learning	AI & FL 2022	10th International Conference of Artificial Intelligence and Fuzzy Logic	Dec 17, 2022	Dubai, UAE
+Machine Learning	SCM 2022	5th International Conference on Soft Computing, Control and Mathematics	Dec 17, 2022	Dubai, UAE
+Machine Learning	AI & FL 2022	10th International Conference of Artificial Intelligence and Fuzzy Logic	Dec 17, 2022	Dubai, UAE
+Machine Learning	SIGV 2022	International Conference on Signal Processing and Vision	Dec 17, 2022	Dubai, UAE
+Machine Learning	MEDS  2022	5th International Conference on Medical Sciences	Dec 17, 2022	Dubai, UAE
+Machine Learning	ELEG 2022	4th International Conference on Electrical Engineering	Dec 17, 2022	Dubai, UAE
+Machine Learning	EAI ICMTEL  2023	5th EAI International Conference on Multimedia Technology and Enhanced Learning	Apr 28, 2023	Leicester, UK
+Machine Learning	SNLP  2023	4th International Conference on Semantic & Natural Language Processing 	May 27, 2023	Vancouver, Canada
+Machine Learning	CBDA 2023	4th International Conference on Big Data	May 20, 2023	Zurich, Switzerland
+Machine Learning	ASUC 2023	14th International Conference on Ad hoc, Sensor & Ubiquitous Computing 	Mar 25, 2023	Sydney, Australia
+Machine Learning	NLPIR 2022	2022 6th International Conference on Natural Language Processing and Information Retrieval (NLPIR 2022)	Dec 16, 2022	Bangkok, Thailand
+Machine Learning	DKMP  2023	11th International Conference on Data Mining & Knowledge Management Process	Mar 18, 2023	Vienna, Austria
+Machine Learning	NCO 2023	9th International Conference on Networks and Communications 	Mar 25, 2023	Sydney, Australia
+Machine Learning	IPMV 2023	2023 5th International Conference on Image Processing and Machine Vision (IPMV 2023)	Jan 13, 2023	Macau, China
+Machine Learning	CLOUD  2023	12th International Conference on Cloud Computing: Services and Architecture	Mar 18, 2023	Vienna, Austria
+Machine Learning	ACM-AMLSP 2022	2022 4th International Conference on Algorithms, Machine Learning and Signal Processing (AMLSP 2022)	Nov 25, 2022	Sanya, China
+Machine Learning	SAIM 2023	4th International Conference on Soft Computing, Artificial Intelligence and Machine Learning 	May 27, 2023	Vancouver, Canada
+Machine Learning	ACSIT 2023	11th International Conference of Advanced Computer Science & Information Technology	May 27, 2023	Vancouver, Canada
+Machine Learning	NLPML 2023	4th International Conference on Natural Language Processing and Machine Learning	May 20, 2023	Zurich, Switzerland
+Machine Learning	ACM ICMLSC 2023	ACM--2023 The 7th International Conference on Machine Learning and Soft Computing (ICMLSC 2023)	Jan 5, 2023	Chongqing, China
+Machine Learning	IEEE-MLNLP 2022	2022 5th International Conference on Machine Learning and Natural Language Processing (MLNLP 2022)	Dec 23, 2022	Sanya, China
+Machine Learning	BDML 2023	4th International Conference on Big Data and Machine Learning 	Mar 18, 2023	Vienna, Austria
+Machine Learning	SIPRO  2023	9th International Conference on Signal and Image Processing 	Mar 18, 2023	Vienna, Austria
+Machine Learning	MLIS 2022	2022 International Conference on Machine Learning and Intelligent Science (MLIS 2022)	Dec 16, 2022	Macau, China
+Machine Learning	CRIS  2023	9th International Conference on Cryptography and Information Security	May 20, 2023	Zurich, Switzerland
+Machine Learning	SIPM  2023	11th International Conference on Signal Image Processing and Multimedia	May 27, 2023	Vancouver, Canada
+Machine Learning	SE  2023	11th International Conference on Software Engineering & Trends	May 27, 2023	Vancouver, Canada
+Machine Learning	FCST 2023	11th International Conference on Foundations of Computer Science & Technology	May 27, 2023	Vancouver, Canada
+Machine Learning	CoNeCo 2023	15th International Conference on Computer Networks & Communications 	May 27, 2023	Vancouver, Canada
+Machine Learning	SAI 2023	12th International Conference on Soft Computing, Artificial Intelligence and Applications 	Mar 25, 2023	Sydney, Australia
+Machine Learning	SOFT 2023	9th International Conference on Software Engineering 	Mar 25, 2023	Sydney, Australia
+Machine Learning	MLT 2023	4th International Conference on Machine Learning & Trends	Mar 25, 2023	Sydney, Australia
+Machine Learning	AIAPP  2023	9th International Conference on Artificial Intelligence and Applications	May 20, 2023	Zurich, Switzerland
+Machine Learning	GMLR @ ACM SAC 2023	ACM SAC Track on Graph Models for Learning and Recognition	Mar 27, 2023	Tallinn, Estonia
+Machine Learning	ICDIPV  2023	12th International Conference on Digital Image Processing and Vision	Jul 29, 2023	London, United Kingdom
+Machine Learning	ITE 2023	4th International Conference on Integrating Technology in Education 	Jul 22, 2023	Toronto, Canada
+Machine Learning	CAIML  2023	4th International Conference on Artificial Intelligence and Machine Learning	Jul 29, 2023	London, United Kingdom
+Machine Learning	SIPP 2023	11th International Conference on Signal, Image Processing and Pattern Recognition 	Jul 22, 2023	Toronto, Canada
+Machine Learning	CBIoT  2023	4th International Conference on Cloud, Big Data and IoT 	Jul 29, 2023	London, United Kingdom
+Machine Learning	BIGML 2023	4th International conference on Big Data, Machine learning and Applications	Jul 22, 2023	Toronto, Canada
+Machine Learning	NLPCL 2023	4th International Conference on Natural Language Processing and Computational Linguistics	Jul 22, 2023	Toronto, Canada
+Machine Learning	ICRMV 2023	2023 the 7th International Conference on Robotics and Machine Vision (ICRMV 2023)	Jan 5, 2023	Taizhou, China
+Machine Learning	IOP, EI, Scopus-EECT 2023	2023 3rd International Conference on Electrical, Electronics and Computing Technology (EECT 2023)	Mar 24, 2023	Sanya, China
+Machine Learning	ACM-Ei/Scopus-MLBDM 2022	2022 2nd International Conference on Machine Learning and Big Data Management（MLBDM 2022）-EI Compendex	Dec 23, 2022	Sanya, China
+Machine Learning	ACMLC 2022	IEEE--2022 5th Asia Conference on Machine Learning and Computing (ACMLC 2022)	Dec 28, 2022	Bangkok, Thailand
+Machine Learning	CICBA 2023	5th International Conference on Computational Intelligence in Communications and Business Analytics	Jan 27, 2023	Kalyani, West Bengal, India
+Machine Learning	ACM AICCC 2022	ACM--2022 5th Artificial Intelligence and Cloud Computing Conference (AICCC 2022)	Dec 17, 2022	Osaka, Japan
+Machine Learning	evostar 2023	EvoStar 2023 - The Leading European Event on Bio‑Inspired Computation	Apr 12, 2023	Brno, Czech Republic
+Machine Learning	evoAPPS 2023	EvoApplications 2023 - 26th European Conference on the Applications of Evolutionary and bio-inspired Computation	Apr 12, 2023	Brno, Czech Republic
+Machine Learning	MLmDS 2023	AAAI 2023 Workshop: When Machine Learning meets Dynamical Systems: Theory and Applications	Feb 13, 2023	Washington, DC, USA
+Machine Learning	ICAIE 2023	2023 3rd International Conference on Artificial Intelligence in Education (ICAIE 2023)	Mar 16, 2023	Chongqing, China
+Machine Learning	ICEIT 2023	2023 12th International Conference on Educational and Information Technology (ICEIT 2023)	Mar 16, 2023	Chongqing, China
+Machine Learning	ICMLT--Ei, Scopus 2023	2023 8th International Conference on Machine Learning Technologies (ICMLT 2023)--EI Compendex, Scopus	Mar 10, 2023	Stockholm, Sweden
+Machine Learning	ICSSE--Ei 2023	2023 6th International Conference on Software and Services Engineering (ICSSE 2023)	Apr 13, 2023	Marseille, France
+Machine Learning	ICMLC 2023	ACM--2023 15th International Conference on Machine Learning and Computing (ICMLC 2023)	Feb 17, 2023	Zhuhai, China
+Machine Learning	CVPR 2023	The IEEE/CVF Conference on Computer Vision and Pattern Recognition	Jun 18, 2023	Vancouver, Canada
+Machine Learning	KST 2023	2023 15th International Conference on Knowledge and Smart Technology (KST)	Feb 22, 2023	Novotel Vintage Park, Phuket, Thailand
+Machine Learning	MLOpt 2023	Workshop on Machine Learning Techniques for Software Development and Optimization	Jan 16, 2023	Toulouse, France
+Machine Learning	IPMI 2023	Information Processing in Medical Imaging	Jun 19, 2023	San Carlos de Bariloche, Argentina 
+Machine Learning	WSPML 2022	2022 4rd International Workshop on Signal Processing and Machine Learning (WSPML 2022)	Dec 16, 2022	Beijing, China
+Machine Learning	PAKDD 2023	The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining	May 25, 2023	Osaka, Japan
+Machine Learning	IDITR-Chengdu 2023	2023 2nd International Conference on Innovations and Development of Information Technologies and Robotics (IDITR 2023)	May 26, 2023	Chengdu, China 
+Machine Learning	MDAI 2023	20th International Conference on Modeling Decisions for Artificial Intelligence	Jun 19, 2023	Umea, Sweden
+Machine Learning	ISIR-eCom 2022	INTERACTIVE AND SCALABLE INFORMATION RETRIEVAL METHODS FOR ECOMMERCE ((conjunction with WSDM 2022)	Feb 21, 2022	Phoenix, Arizona
+Machine Learning	WMLDL  2023	1st International Workshop on Machine Learning and Deep Learning WMLDL 2023	Mar 7, 2023	University Mohamed Boudiaf of M'sila,Alg
+Machine Learning	ICVR--SCI 2023	2023 the 9th International Conference on Virtual Reality (ICVR 2023)--IEEE, SCI	May 12, 2023	Xianyang, China
+Machine Learning	MLDM 2023	18th International Conference on Machine Learning and Data Mining	Jul 16, 2023	New York, USA
+Machine Learning	MLDM 2023	19th International Conference on Machine Learning and Data Mining	Jul 16, 2023	New York, USA
+Machine Learning	IJCNN 2023	International Joint Conference on Neural Networks	Jul 18, 2023	Gold Coast, Australia
+Machine Learning	IEEE SEAI 2023	2023 3rd IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2023)	Jun 16, 2023	Xiamen, China
+Machine Learning	ACM | PRIS 2023	2023 5th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2023)	Jul 28, 2023	Shenyang, China
+Machine Learning	PRA 2023	2023 5th Workshop on Pattern Recognition Applications (PRA 2023)	Jul 28, 2023	Shenyang, China
+Machine Learning	LION 2023	Learning and Intelligent Optimization 17	Jun 4, 2023	Nice, France
+Machine Learning	IWANN 2023	International Work-Conference on Artificial and Natural Neural Networks	Jun 19, 2023	Ponta Delgada, Azores, Portugal
+Machine Learning	FAIML 2023	2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2023)	Apr 28, 2023	Hangzhou, China
+Machine Learning	FAIML 2023	2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2023)	Apr 28, 2023	Hangzhou, China
+Machine Learning	IEEE ICA 2022	The 6th IEEE International Conference on Agents	Nov 28, 2022	Adelaide, Australia
+Machine Learning	ICPRAM 2023	12th International Conference on Pattern Recognition Applications and Methods	Feb 22, 2023	Lisbon, Portugal
+Machine Learning	VISAPP 2023	18th International Conference on Computer Vision Theory and Applications	Feb 19, 2023	Lisbon, Portugal
+Machine Learning	ICSED 2022	2022 4th International Conference on Software Engineering and Development (ICSED 2022)	Nov 25, 2022	Xiamen, China
+Machine Learning	BIOM 2022	2nd International Conference on Big Data, IoT and Machine Learning	Oct 22, 2022	Sydney, Australia
+Machine Learning	AIMLNET 2022	2nd International conference on AI, Machine Learning in Communications and Networks 	Oct 29, 2022	Vienna, Austria
+Machine Learning	ECIR 2023	45th European Conference on Information Retrieval	Apr 2, 2023	Dublin, Ireland
+Machine Learning	CSCT 2022	Congress on Smart Computing Technologies	Dec 3, 2012	South Asian University, India 
+Machine Learning	AISC 2023	IEEE International Conference on Artificial Intelligence and Smart Communication	Jan 27, 2023	Noida, India
+Machine Learning	BNAIC/BENELEARN 2022	BNAIC/BENELEARN 2022 : The 34rd Benelux Conference on Artificial Intelligence and the 31th Belgian Dutch Conference on Machine Learning	Nov 7, 2022	Mechelen, Belgium
+Machine Learning	ICMIE 2022	IEEE--2022 6th International Conference on Measurement Instrumentation and Electronics (ICMIE 2022)	Nov 17, 2022	Hangzhou, China
+Machine Learning	IOP, EI, Scopus-PRECE 2022	2022 International Conference on Power, Renewable Energy and Control Engineering (PRECE 2022)-EI Compendex	Oct 21, 2022	Xiamen, China
+Machine Learning	IEEE--ISCMI 2022	IEEE--2022 9th Intl. Conference on Soft Computing & Machine Intelligence (ISCMI 2022)--SCIE	Nov 26, 2022	Toronto, Canada
+Machine Learning	SPIE ICMV 2022	SPIE--2022 The 15th International Conference on Machine Vision (ICMV 2022)	Nov 18, 2022	Rome, Italy
+Machine Learning	ICLR 2023	International Conference on Learning Representations	May 1, 2023	Kigali, Rwanda
+Machine Learning	ICISML 2022	1st EAI International Conference on Intelligent Systems and Machine Learning	Dec 16, 2022	Hyderabad, India
+Machine Learning	EuroSymposium 2022	The XIVth EuroSymposium on Digital Transformation, 2022, University of Gdansk, Poland (videoconference, hybrid)	Dec 15, 2022	Videoconference (Sopot, Poland)
+Machine Learning	FPS 2022	The 15th International Symposium on Foundations & Practice of Security	Dec 12, 2022	Ottawa, Canada
+Machine Learning	FL-NeurIPS 2022	International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022	Dec 2, 2022	New Orleans, LA, USA
+Machine Learning	HOO 2022	Order up! The Benefits of Higher-Order Optimization in Machine Learning: NeurIPS 2022	Dec 2, 2022	New Orleans, LA
+Machine Learning	ACM--ESSE 2022	ACM--2022 3rd European Symposium on Software Engineering (ESSE 2022)--SCI	Oct 27, 2022	Rome, Italy
+Machine Learning	AIChallengeIoT  2022	AIChallengeIoT 2022 : Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things	Nov 6, 2022	Boston, MA
+Machine Learning	SSTDM 2022	17th International Workshop on Spatial and Spatiotemporal Data Mining	Nov 28, 2022	Orlando, Florida
+Machine Learning	NLDL 2023	Northern Lights Deep Learning Conference 2023	Jan 10, 2023	Tromsø, Norway
+Machine Learning	GNNet@CoNEXT 2022	Graph Neural Networking Workshop (co-located with ACM CoNEXT 2022)	Dec 9, 2022	Rome, Italy
+Machine Learning	AAAI Fast Track 2023	The 37th AAAI Conference on Artificial Intelligence (Fast Track)	Feb 7, 2023	Washington, DC, USA
+Machine Learning	ICCT 2023	3rd International Conference on Intelligent Communication and Computational Techniques 	Jan 19, 2023	Jaipur, India
+Machine Learning	TAAI 2022	The 27th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 	Dec 1, 2022	Tainan, Taiwan
+Machine Learning	GCA 2022	The Seventh International Workshop on GPU Computing and AI	Nov 21, 2022	Himeji, Japan
+Machine Learning	JCRAI 2022-Ei Compendex & Scopus 2022	2022 International Joint Conference on Robotics and Artificial Intelligence (JCRAI 2022)	Oct 14, 2022	Chengdu, China
+Machine Learning	AESM 2022	Algorithms towards Ethical and Privacy challenges in Social Media recommendation systems - ICDMW	Aug 20, 2022	Orlando, Florida, USA
+Machine Learning	WiML 2022	17th Women in Machine Learning Workshop (WiML 2022) 	Nov 28, 2022	New Orleans, Louisiana
+Machine Learning	ICDMAI 2023	7th International Conference on Data Management, Analytics and Innovation	Jan 20, 2023	Pune, India
+Machine Learning	FCPAE & AIAM 2022	FCPAE Europe Forum & 4th International Conference on Artificial Intelligence and Advanced Manufacturing (AIAM2022) 	Oct 7, 2022	Hamburg, Germany
+Machine Learning	IEEE-ADMIT 2022	2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT 2022)	Sep 23, 2022	Xi'an, China
+Machine Learning	ICADCML 2023	4th International Conference on Advances in Distributed Computing and Machine Learning	Jan 15, 2023	Rourkela, Odisha, India
+Machine Learning	DMBD 2022	DMBD'2022: Call for Special Session Proposals & Call for Papers 	Nov 21, 2022	Beijing,China
+Machine Learning	DAL 2022	Second International Conference on Data Analytics and Learning 2022	Dec 30, 2022	Moodbidri, Mangalore
+Machine Learning	PMx@AAAI 2022	Artificial Intelligence for Predictive Maintenance - AAAI Fall Symposium Series	Nov 17, 2022	Arlington, VA
+Machine Learning	MLMI 2022	ACM--2022 5th International Conference on Machine Learning and Machine Intelligence (MLMI 2022)	Sep 23, 2022	Hangzhou, China
+Machine Learning	AIMLAI 2022	Advances in Interpretable Machine Learning and Artificial Intelligence	Oct 21, 2022	Atlanta, USA
+Machine Learning	ICACNIS 2022	The 2022 International Conference on Advanced Creative Networks and Intelligent Systems	Nov 23, 2022	Bandung, Indonesia
+Machine Learning	IJCACI 2022	6th International Joint Conference on Advances in Computational Intelligence	Oct 15, 2022	South Asian University, India 
+Machine Learning	SIVT 2022	Signal Image and Vision Technology	Oct 19, 2022	Dijon, France
+Machine Learning	WNUT@COLING 2022	The 8th Workshop on Noisy User-generated Text (WNUT@COLING 2022)	Oct 16, 2022	Gyeongju, Republic of Korea
+Machine Learning	SITIS 2022	Int IEEE Conf. Signal Image and Internet Based Systems : TRACK ISSA on Intelligent Systems, Services and Applications	Oct 19, 2022	Dijon, France
+Machine Learning	BDML--Ei 2022	2022 5th International Conference on Big Data and Machine Learning (BDML 2022)	Sep 23, 2022	Xiamen, China
+Machine Learning	AWSE--EI 2022	2022 The Second Asia Workshop on Software Engineering (AWSE 2022)	Sep 16, 2022	Larissa, Greece
+Machine Learning	APSIPA ASC 2022	Asia Pacific Signal and Information Processing Association Annual Summit and Conference 2022	Nov 7, 2022	Chiang Mai, Thailand
+Machine Learning	ACM-Ei/Scopus-CVCM 2022	2022 3rd International Conference on Computer Vision, Communications and Multimedia (CVCM 2022) -EI Compendex	Aug 26, 2022	Xi'an, China
+Machine Learning	ACM-Ei/Scopus-ITNLP 2022	2022 2nd International Conference on Information Technology and Natural Language Processing (ITNLP 2022) -EI Compendex	Aug 26, 2022	Xi'an, China
+Machine Learning	CAMLIS 2022	Conference on Applied Machine Learning for Information Security	Oct 20, 2022	Arlington, Virginia
+Machine Learning	AIxIA 2022	21st International Conference of the Italian Association for Artificial Intelligence	Nov 28, 2022	Udine, Italy
+Machine Learning	IEEE-AIMLMI 2022	2022 Asia Conference on Advanced Artificial Intelligence, Machine Learning and Man-machine Interaction (AIMLMI 2022)	Aug 26, 2022	Qingdao, China
+Machine Learning	RSDA 2022	The 7th International Workshop on Resiliency, Security, Defenses and Attacks	Oct 31, 2022	Charlotte, North Carolina, USA
+Machine Learning	AISC 2022	Artificial Intelligence methods for Smart Cities [Elsevier][Scopus][Ei]	Oct 26, 2022	Leuven, Belgium
+Machine Learning	ICVGIP 2022	The Indian Conference on Computer Vision, Graphics and Image Processing	Dec 8, 2022	Gandhinagar,Gujarat
+Machine Learning	ICCCMLA 2022	IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications	Oct 8, 2022	Goa, India
+Machine Learning	DMMLACS 2022	3rd International Special Session on Data Mining and Machine Learning Applications for Cyber Security	Oct 25, 2022	Valleta, Malta
+Machine Learning	SCIA 2023	22nd Scandinavian Conference on Image Analysis	Apr 18, 2023	Levi Ski Resort, Lapland, Finland
+Machine Learning	SCIA 2023	Scandinavian Conference on Image Analysis	Apr 18, 2023	Levi Ski Resort, Lapland, Finland
+Machine Learning	BMVC 2022	The 33rd British Machine Vision Conference	Nov 21, 2022	London, UK
+Machine Learning	AIM 2022	ECCV 2022 - Advances in Image Manipulation workshop and challenges	Oct 23, 2022	Tel-Aviv, Israel
+Machine Learning	IEEE ICICT 2023	3rd IEEE International Conference on Issues and Challenges in Intelligent Computing Techniques	Nov 11, 2022	Ghaziabad, India
+Machine Learning	NoCArc 2022	15th International Workshop on Network-on-Chip Architectures	Oct 5, 2022	Chicago, Illinois, USA
+Machine Learning	IEEE ICICT 2022	3rd IEEE International Conference on Issues and Challenges in Intelligent Computing Techniques	Nov 11, 2022	Delhi, India
+Machine Learning	IHCI 2022	14th International Conference on Intelligent Human-Computer Interaction (IHCI-2022)	Oct 20, 2022	Tashkent, Uzbekistan
+Machine Learning	ORSUM 2022	5th Workshop on Online Recommender Systems and User Modeling (ACM RecSys 2022) 	Sep 18, 2022	Seattle, WA, USA
+Machine Learning	MDE Intelligence 2022	The 4th Workshop on Artificial Intelligence and Model-driven Engineering	Oct 23, 2022	Montreal (Canada), Virtual
+Machine Learning	WMLQ 2022	International Workshop on Machine Learning and Quantum Computing Applications in Medicine and Physics	Sep 13, 2022	Warsaw, Poland
+Machine Learning	ISIC-SIAW-ECCV 2022	Seventh ISIC Skin Image Analysis Workshop @ ECCV 2022	Oct 23, 2022	Tel Aviv, Israel
+Machine Learning	CVIP 2022	Seventh International Conference on Computer Vision and Image Processing  (endorsed by IAPR)	Nov 4, 2022	Nagpur, Maharashtra, India
+Machine Learning	AJCAI  2022	Australasian Joint Conference on Artificial Intelligence 2022	Dec 5, 2022	Perth, Western Australia
+Machine Learning	PRELUDE 2022	PeRvasive sEnsing and muLtimedia UnDErstanding	Oct 19, 2022	Iijon, France
+Machine Learning	CoCo4MT 2022	2nd CFP - The First Workshop on Corpus Generation and Corpus Augmentation for Machine Translation	Sep 16, 2022	Orlando, Florida and Hybrid
+Machine Learning	ASPAI 2022	4th International Conference on Advances in Signal Processing and Artificial Intelligence	Oct 19, 2022	Corfu Holiday Palace, Corfu, Greece
+Machine Learning	ICMLA 2022	IEEE International conference on Machine Learning and Applications	Dec 12, 2022	Nassau, The Bahamas
+Machine Learning	SUMAC 2022	The 4th workshop on Structuring and Understanding of Multimedia HeritAge Contents, in conjunction with ACM Multimedia 2022	Oct 10, 2022	Lisbon, Portugal
+Machine Learning	MuSe 2022	The 3rd International Multimodal Sentiment Analysis Challenge and Workshop @ ACM Multimedia 2022, October 2022, Lisbon, Portugal	Oct 10, 2022	Lisbon, Portugal
+Machine Learning	ACCV 2022	The 16th Asian Conference on Computer Vision	Dec 4, 2022	Macau SAR, China
+Machine Learning	ACM RACS 2022	Conference on Research in Adaptive and Convergent Systems	Oct 3, 2022	The University of Aizu, Japan
+Machine Learning	MIDAS 2022	The 7th Workshop on MIning DAta for financial applicationS	Sep 23, 2022	Grenoble, France
+Machine Learning	ICIST--Ei, Scopus 2022	2022 The 4th International Conference on Intelligent Science and Technology (ICIST 2022)--Ei Compendex, Scopus	Aug 10, 2022	Harbin, China
+Machine Learning	GRAPH-QUALITY@ECML-PKDD 2022	GRAPH-QUALITY Workshop Co-located with ECML-PKDD	Sep 23, 2022	Grenoble, France
+Machine Learning	HYDRA 2022	1st International Workshop on HYbrid Models for Coupling Deductive and Inductive ReAsoning	Sep 5, 2022	Genova Nervi, Italy
+Machine Learning	DAIBC -  2022	THE FIRST INTERNATIONAL WORKSHOP ON DECENTRALIZED AI USING BLOCKCHAIN 	Sep 5, 2022	SAN ANTONIO, TEXAS, USA
+Machine Learning	AALTD@ECML 2022	Workshop on Advanced Analytics and Learning on Temporal Data	Sep 19, 2022	Grenoble, France
+Machine Learning	ACM--SPML 2022	ACM--2022 5th International Conference on Signal Processing and Machine Learning (SPML 2022)	Aug 4, 2022	Dalian, China
+Machine Learning	PRAXAI @ IEEE-DSAA 2022	Practical applications of explainable artificial intelligence methods  @ IEEE-DSAA22	Oct 13, 2022	Shenzhen, China (Hybrid)
+Machine Learning	KSE 2022	The 14th International Conference on Knowledge and Systems Engineering	Oct 19, 2022	Nha Trang, Vietnam
+Machine Learning	ICDM 2022	22nd IEEE International Conference on Data Mining 	Nov 30, 2022	Orlando, FL, USA
+Machine Learning	AutoML 2022	The Sixth International Workshop on Automation in Machine Learning	Aug 14, 2022	KDD 2022, Washington DC
+Machine Learning	CVAUI 2022	5th Workshop on Computer Vision for Analysis of Underwater Imagery	Aug 21, 2022	Montréal, Canada
+Machine Learning	BDAML--Ei, Scopus 2022	2022 International Conference on Big Data Analysis and Machine Learning (BDAML 2022)--Ei Compendex, Scopus	Jul 20, 2022	Suzhou, China
+Machine Learning	ICML ExVo 2022	ICML Expressive Vocalization (ExVo) Workshop and Competition 	Jul 22, 2022	Baltimore, USA 
+Machine Learning	Special Session on TMLAE, IEEE DASC o 2022	Special Session on Trustworthiness of Machine Learning in Adversarial  Environments, 20th IEEE International Conference on Dependable, Autonomic &  Secure Computing	Sep 12, 2022	Calabria, Italy
+Machine Learning	Special Session on TMLAE, IEEE DASC 2022	Special Session on Trustworthiness of Machine Learning in Adversarial  Environments, 20th IEEE International Conference on Dependable, Autonomic &  Secure Computing	Sep 12, 2022	Calabria, Italy
+Machine Learning	DOING@ADBIS 2022	3rd International Workshop on Intelligent Data – From Data to Knowledge	Sep 5, 2022	Torino, Italy
+Machine Learning	CDCEO  2022	2nd Workshop on Complex Data Challenges in Earth Observation	Jul 23, 2022	Vienna, Austria
+Machine Learning	DDSCAKD 2022	Call for Contributions on Book: Data Driven Science for Clinically Actionable Knowledge in Diseases	Dec 1, 2022	Sydney, Australia
+Machine Learning	ICAICC 2022	2nd International Conference on Artificial Intelligence and Cloud Computing	Jun 24, 2022	Chongqing, China
+Machine Learning	CCIA 2022	24th International Conference of the Catalan Association for Artificial Intelligence	Oct 19, 2022	Sitges, Barcelona, Spain
+Machine Learning	DSAA 2022	9th IEEE International Conference on Data Science and Advanced Analytics (DSAA' 2022)	Oct 13, 2022	Shenzhen, China
+Machine Learning	FATED 2022	Workshop on Fairness, Accountability, and Transparency in Educational Data	Jul 27, 2022	Durham, UK
+Machine Learning	MLG 2022	17th International Workshop on Mining and Learning with Graphs	Aug 15, 2022	Washinton, DC
+Machine Learning	AI4Cyber/MLHat 2022	AI4Cyber/MLHat: AI-enabled Cybersecurity Analytics and Deployable Defense	May 2, 2022	Washington, DC
+Machine Learning	IWSMR 2022	4th International Workshop on Information Security Methodology and Replication Studies	Aug 23, 2022	Vienna, Austria
+Machine Learning	PRML 2022	IEEE--2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)	Jul 15, 2022	Sichuan University, Chengdu, China
+Machine Learning	HDSS  2022	Health Data Science Session (HDSS)- DeLTA Conference	Jul 12, 2022	Lisbon, Portugal
+Machine Learning	FL-IJCAI 2022	International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI 2022 (FL-IJCAI'22)	Jul 23, 2022	Vienna, Austria
+Machine Learning	PREDICTION SOLUTIONS 2022	International Conference on Prediction Solutions for Technical and Societal Systems	Jul 24, 2022	Nice, France
+Machine Learning	PPAM 2022	14th International Conference on Parallel Processing and Applied Mathematics	Sep 11, 2022	Gdansk, Poland
+Machine Learning	WAML-HPC 2022	1st Workshop on Applications of Machine Learning and Artificial Intelligence in High-Performance Computing 	Sep 11, 2022	Gdansk, Poland
+Machine Learning	SPES 2022	Special Session on Parallel EVD/SVD and its Application in Matrix Computations.	Sep 11, 2022	Gdansk, Poland
+Machine Learning	IJCAI-AIofAI 2022	2nd Workshop on Adverse Impacts and Collateral Effects of AI Technologies	Jul 23, 2022	Vienna, Austria
+Machine Learning	SGPU 2022	Special Session on GPU Computing	Sep 11, 2022	Gdansk, Poland
+Machine Learning	MHPC-IM 2022	Minisymposium on High Performance Computing Interval Methods	Sep 11, 2022	Gdansk, Poland
+Machine Learning	NeurIPS 2022	Thirty-sixth Conference on Neural Information Processing Systems	Nov 28, 2022	New Orleans, LA. Hybrid
+Machine Learning	NCTA 2022	14th International Conference on Neural Computation Theory and Applications	Oct 24, 2022	Valletta, Malta
+Machine Learning	DMAH 2022	The Eighth International Workshop on Data Management and Analytics for Medicine and Healthcare	Sep 9, 2022	Sydney, Australia - virtual event
+Machine Learning	AUTOMATA 2022	The 28th International Workshop on Cellular Automata and Discrete Complex Systems	Oct 10, 2022	Kharagpur, India
+Machine Learning	ATVA 2022	The 20th International Symposium on Automated Technology for Verification and Analysis	Oct 25, 2022	Beijing, China
+Machine Learning	ACAN 2022	The 13th International Workshop on Agent-based Complex Automated Negotiations	Jul 24, 2022	Vienna, Austria
+Machine Learning	KI-KMU 2022	3. Workshop Künstliche Intelligenz für kleine und mittlere Unternehmen auf der INFORMATIK 2022                                 	Sep 26, 2022	Hamburg, Germany
+Machine Learning	IEEE-ISNCC 2022	2022 International Symposium on Networks, Computers and Communications	Jul 19, 2022	Shenzhen, China
+Machine Learning	RSTA 2022	4th International Symposium on Rough Sets: Theory and Applications	Sep 4, 2022	Sofia, Bulgaria
+Machine Learning	NSV 2022	15th International Workshop on Numerical Software Verification	Aug 11, 2022	Haifa, Israel 
+Machine Learning	COPA 2022	11th Symposium on Conformal and Probabilistic Prediction with Applications	Aug 24, 2022	Brighton, UK
+Machine Learning	ENC 2022	** Deadline extended ** Track: Scientific Computation Applied to Geospatial Problems, Encuentro Nacional de Computación 2022 (ENC 2022)	Aug 24, 2022	Xalapa, Veracruz, Mexico (virtual)
+Data Mining	RECI 2022	The Second International Workshop on Reliability Engineering and Computational Intelligence	Nov 14, 2022	Delft, Netherlands
+Data Mining	ITCS 2022	11th International Conference on Information Technology Convergence and Services	Nov 12, 2022	Chennai, India
+Data Mining	NLMLT 2022	International Conference on NLP and Machine Learning Trends	Nov 12, 2022	Chennai, India
+Data Mining	DSA 2022	3rd International Conference on Data Science and Applications 	Dec 23, 2022	Sydney, Australia
+Data Mining	ACITY 2022	12th International Conference on Advances in Computing and Information Technology	Dec 23, 2022	Sydney, Australia
+Data Mining	WiMoA 2022	14th International Conference on Wireless, Mobile Network and Applications 	Nov 26, 2022	London, United Kingdom
+Data Mining	UBIC 2022	13th International Conference on Ubiquitous Computing 	Nov 26, 2022	London, United Kingdom
+Data Mining	BMLI 2022	3rd International Conference on Big Data, Machine Learning and IoT	Dec 22, 2022	Sydney, Australia
+Data Mining	DNLP 2023	4th International Conference on Data Mining and NLP	Jan 2, 2023	Zurich, Switzerland
+Data Mining	ADCOM 2023	9th International conference on Advanced Computing	Jan 28, 2023	Copenhagen, Denmark
+Data Mining	DMDBS 2022	8th International Conference on Data Mining and Database Management Systems	Nov 19, 2022	Zurich, Switzerland
+Data Mining	ITCSS 2023	9th International Conference on Information Technology Convergence and Services	Jan 28, 2023	 Copenhagen, Denmark
+Data Mining	BDAB  2023	4th International Conference on Big Data and Blockchain 	Jan 28, 2023	Copenhagen, Denmark
+Data Mining	EAI BDTA 2022	12th EAI International Conference on Big Data Technologies and Applications	Dec 10, 2022	Cairo, Egypt
+Data Mining	MLSC 2023	4th International Conference on Machine Learning and Soft Computing 	Jan 28, 2023	Copenhagen, Denmark
+Data Mining	MLDS 2022	3rd International Conference on Machine Learning Techniques and Data Science	Nov 26, 2022	London, United Kingdom
+Data Mining	BDHI  2023	4th International Conference on Big Data & Health Informatics	Jan 2, 2023	Zurich, Switzerland
+Data Mining	CSML 2023	International Conference on Computer Science and Machine Learning 	Jan 2, 2023	Zurich, Switzerland
+Data Mining	DMDB 2023	10th International Conference on Data Mining and Database 	Feb 18, 2023	Dubai, UAE
+Data Mining	DBDM  2023	11th International Conference on Database and Data Mining	Feb 25, 2023	Vancouver, Canada
+Data Mining	CNSA  2023	16th International Conference on Network Security & Applications	Feb 18, 2023	Dubai, UAE
+Data Mining	AIMLA 2023	3rd International Conference on AI, Machine Learning and Applications	Feb 25, 2023	Vancouver, Canada
+Data Mining	CEEE  2022	4th International Conference on Applied Control, Electrical and Electronics Engineering	Dec 17, 2022	Dubai, UAE
+Data Mining	IOTBS  2023	3rd International Conference on IOT, Big Data and Security	Feb 25, 2023	Vancouver, Canada
+Data Mining	MLAEDU 2022	International Conference on Machine Learning, AI and Education	Dec 17, 2022	Dubai, UAE
+Data Mining	CCSEIT  2023	13th International Conference on Computer Science, Engineering and Information Technology	Feb 18, 2023	Dubai, UAE
+Data Mining	CSE 2022	10th International Conference on Computational Science and Engineering	Dec 17, 2022	Dubai, UAE
+Data Mining	MECN 2022	4th International Conference on Mechanical Engineering	Dec 17, 2022	Dubai, UAE
+Data Mining	DKMP  2023	11th International Conference on Data Mining & Knowledge Management Process	Mar 18, 2023	Vienna, Austria
+Data Mining	NLCAI 2023	4th International Conference on Natural Language Computing and AI	Mar 18, 2023	Vienna, Austria
+Data Mining	AIFU 2023	9th International Conference on Artificial Intelligence and Applications	Mar 18, 2023	Vienna, Austria
+Data Mining	ICAITA  2023	12th International Conference on Advanced Information Technologies and Applications	Mar 25, 2023	Sydney, Australia
+Data Mining	SOFT 2023	9th International Conference on Software Engineering 	Mar 25, 2023	Sydney, Australia
+Data Mining	BIoT  2023	4th International Conference on Blockchain and Internet of Things	Mar 18, 2023	Vienna, Austria
+Data Mining	SNLP  2023	4th International Conference on Semantic & Natural Language Processing 	May 27, 2023	Vancouver, Canada
+Data Mining	CMIT 2023	11th International Conference of Managing Information Technology	May 27, 2023	Vancouver, Canada
+Data Mining	DMA 2023	9th International Conference on Data Mining and Applications	May 20, 2023	Zurich, Switzerland
+Data Mining	SIPRO  2023	9th International Conference on Signal and Image Processing 	Mar 18, 2023	Vienna, Austria
+Data Mining	AIAPP  2023	9th International Conference on Artificial Intelligence and Applications	May 20, 2023	Zurich, Switzerland
+Data Mining	NCO 2023	9th International Conference on Networks and Communications 	Mar 25, 2023	Sydney, Australia
+Data Mining	CBDA 2023	4th International Conference on Big Data	May 20, 2023	Zurich, Switzerland
+Data Mining	ITCA 2023	11th International Conference of Information Technology, Control and Automation	May 27, 2023	Vancouver, Canada
+Data Mining	ICBDSC--Ei 2023	ACM--2023 the 6th International Conference on Big Data and Smart Computing (ICBDSC 2023)	Jan 31, 2023	Palmerston North, New Zealand
+Data Mining	IBTS 2023	2023 International Blockchain Technology Symposium (IBTS 2023)	Mar 17, 2023	Nice, France
+Data Mining	ICSIM--EI 2023	ACM--2023 The 6th International Conference on Software Engineering and Information Management (ICSIM 2023)	Jan 31, 2023	Palmerston North, New Zealand
+Data Mining	NCWMC  2023	8th International Conference on Networks, Communications, Wireless and Mobile Computing	Jul 22, 2023	Toronto, Canada
+Data Mining	ICDIPV  2023	12th International Conference on Digital Image Processing and Vision	Jul 29, 2023	London, United Kingdom
+Data Mining	DaKM 2023	8th International Conference on Data Mining & Knowledge Management	Jul 22, 2023	Toronto, Canada
+Data Mining	CBIoT  2023	4th International Conference on Cloud, Big Data and IoT 	Jul 29, 2023	London, United Kingdom
+Data Mining	NLPCL 2023	4th International Conference on Natural Language Processing and Computational Linguistics	Jul 22, 2023	Toronto, Canada
+Data Mining	IWSMAI 2023	4th International Workshop on Statistical Methods and Artificial Intelligence	Mar 15, 2022	Leuven, Belgium
+Data Mining	CAIML  2023	4th International Conference on Artificial Intelligence and Machine Learning	Jul 29, 2023	London, United Kingdom
+Data Mining	ACM-Ei/Scopus-PRDM 2022	2022 3rd International Conference on Pattern Recognition and Data Mining （PRDM 2022）-EI Compendex	Dec 23, 2022	Sanya, China
+Data Mining	ACM-Ei/Scopus-MLBDM 2022	2022 2nd International Conference on Machine Learning and Big Data Management（MLBDM 2022）-EI Compendex	Dec 23, 2022	Sanya, China
+Data Mining	IFAC WC SIMCA 2023	IFAC WC '2023 SIMCA Open Invited Track	Jul 9, 2023	Yokohama, Japan
+Data Mining	ACM ICCDE 2023	ACM--2023 9th International Conference on Computing and Data Engineering (ICCDE 2023)	Jan 6, 2023	Haikou, China
+Data Mining	ICGDA--Ei 2023	2023 6th International Conference on Geoinformatics and Data Analysis (ICGDA 2023)	Apr 13, 2023	Marseille, France
+Data Mining	GBDE--EI, Scopus 2023	2023 The 3rd Global Big Data Engineering Symposium (GBDE 2023)--EI Compendex, Scopus	Jan 10, 2023	Hangzhou, China
+Data Mining	ICBDM--EI 2023	2023 the 6th International Conference on Big Data Management (ICBDM 2023)	Feb 17, 2023	Zhuhai, China
+Data Mining	IFSP 2023	2023 the 3rd International Forum on Signal Processing (IFSP 2023)	Jan 6, 2023	Chongqing, China
+Data Mining	DSDE--Ei 2023	2023 the 6th International Conference on Data Storage and Data Engineering (DSDE 2023)	Feb 24, 2023	Mianyang, Sichuan, China
+Data Mining	PAKDD 2023	The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining	May 25, 2023	Osaka, Japan
+Data Mining	DMCIT 2023	2023 7th International Conference on Data Mining, Communications and Information Technology (DMCIT 2023)	May 26, 2023	Chongqing, China
+Data Mining	China, DMCIT 2023	2023 7th International Conference on Data Mining, Communications and Information Technology (DMCIT 2023)	May 26, 2023	Chongqing, China
+Data Mining	IDITR 2023	2023 2nd International Conference on Innovations and Development of Information Technologies and Robotics (IDITR 2023)	May 26, 2023	Chengdu, China 
+Data Mining	Processes - AI Energy 2022	Application of Artificial Intelligence and Data Mining in Energy System	Dec 30, 2021	MDPI, Processes
+Data Mining	ICDM 2023	23rd Industrial Conference on Data Mining	Jul 12, 2023	New York, USA
+Data Mining	MLDM 2023	19th International Conference on Machine Learning and Data Mining	Jul 16, 2023	New York, USA
+Data Mining	MLDM 2023	18th International Conference on Machine Learning and Data Mining	Jul 16, 2023	New York, USA
+Data Mining	CoMSE 2023	2023 International Conference on Materials Science and Engineering (CoMSE 2023)	Mar 24, 2023	Shanghai, China
+Data Mining	ACM-PRIS 2023	2023 5th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2023)	Jul 28, 2023	Shenyang, China
+Data Mining	ACM | PRIS 2023	2023 5th International Conference on Pattern Recognition and Intelligent Systems (PRIS 2023)	Jul 28, 2023	Shenyang, China
+Data Mining	DMKD 2023	2023 6th International Conference on Data Mining and Knowledge Discovery(DMKD 2023)	Mar 17, 2023	Seoul, South Korea
+Data Mining	ACBT--EI 2023	2023 Asia Conference on Blockchain Technologies (ACBT 2023)	Jun 23, 2023	Seoul, South Korea
+Data Mining	ITIOT 2023	2023 8th International Conference on Information Technology and Internet of Things (ITIOT 2023)	Jun 23, 2023	Seoul, South Korea
+Data Mining	ICISPP 2023	IEEE--2023 4th International Conference on Information Security and Privacy Protection (ICISPP 2023)	Jul 8, 2023	Wuxi, China
+Data Mining	DMKD 2023	2023 6th International Conference on Data Mining and Knowledge Discovery(DMKD 2023)	Mar 17, 2023	Seoul, South Korea
+Data Mining	ICCDA 2023	2023 The 7th International Conference on Compute and Data Analysis (ICCDA 2023)	Jul 20, 2023	Guiyang, China
+Data Mining	ICACII 2023	2nd International Conference on Advances in Computational Intelligence and Informatics 	Dec 22, 2023	Hyderabad, India
+Data Mining	SDM 2023	SDM 2023 : SIAM International Conference on Data Mining	Apr 27, 2023	Minneapolis, MN, USA
+Data Mining	BDSIC 2022	2022 4th International Conference on Big-data Service and Intelligent Computation (BDSIC 2022)	Nov 25, 2022	Xiamen, China
+Data Mining	WSIM 2022	2022 2nd International Workshop on Information Management (WSIM 2022)	Dec 2, 2022	London, UK
+Data Mining	BIOM 2022	2nd International Conference on Big Data, IoT and Machine Learning	Oct 22, 2022	Sydney, Australia
+Data Mining	NLDM 2022	2nd International Conference on NLP & Data Mining	Oct 22, 2022	Sydney, Australia
+Data Mining	ARIAL@ICDM 2022	IEEE 5th Workshop on AI for Aging, Rehabilitation, and Intelligent Assisted Living	Nov 28, 2022	Orlando, USA
+Data Mining	FSDM 2022	8th International Conference on Fuzzy Systems and Data Mining	Nov 4, 2022	Xiamen, China
+Data Mining	TAAI 2022	The 27th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 	Dec 1, 2022	Tainan, Taiwan
+Data Mining	ICNT--Ei 2022	2022 5th International Conference on Network Technology (ICNT 2022)	Oct 21, 2022	Beijing, China
+Data Mining	AESM 2022	Algorithms towards Ethical and Privacy challenges in Social Media recommendation systems - ICDMW	Aug 20, 2022	Orlando, Florida, USA
+Data Mining	DMBD 2022	The Seventh International Conference on Data Mining and Big Data	Nov 21, 2022	Beijing, China
+Data Mining	IEEE-ADMIT 2022	2022 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT 2022)	Sep 23, 2022	Xi'an, China
+Data Mining	DMBD 2022	7th International Conference on Data Mining and Big Data 	Nov 21, 2022	Beijing, China
+Data Mining	DMBD 2022	DMBD'2022: Call for Special Session Proposals & Call for Papers 	Nov 21, 2022	Beijing,China
+Data Mining	ABCSS 2022	The 7th International Workshop on Application of Big Data for Computational Social Science	Nov 17, 2022	Niagara Falls, Canada
+Data Mining	AUSDM 2022	The 20th Australasian Data Mining Conference 2022 Deadline Extended to August 19	Dec 12, 2022	Western Sydney, Australia
+Data Mining	INCOFT 2022	International Conference on Futuristic Technologies	Nov 25, 2022	 Belagavi, Karnataka, India
+Data Mining	ACM-Ei/Scopus-ITNLP 2022	2022 2nd International Conference on Information Technology and Natural Language Processing (ITNLP 2022) -EI Compendex	Aug 26, 2022	Xi'an, China
+Data Mining	ACM--ICBDT 2022	ACM--2022 5th International Conference on Big Data Technologies (ICBDT 2022)	Sep 23, 2022	Qingdao, China
+Data Mining	ACM-Ei/Scopus-CVCM 2022	2022 3rd International Conference on Computer Vision, Communications and Multimedia (CVCM 2022) -EI Compendex	Aug 26, 2022	Xi'an, China
+Data Mining	ADMA 2022	18th International Conference on Advanced Data Mining and Applications	Nov 28, 2022	Brisbane, Australia
+Data Mining	AUSDM 2022	The 20th Australasian Data Mining Conference 2022 Second Call for Papers	Dec 12, 2022	Western Sydney, Australia
+Data Mining	ICCCMLA 2022	IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications	Oct 8, 2022	Goa, India
+Data Mining	DMMLACS 2022	3rd International Special Session on Data Mining and Machine Learning Applications for Cyber Security	Oct 25, 2022	Valleta, Malta
+Data Mining	ADMA 2022	18th International Conference on Advanced Data Mining and Applications	Nov 30, 2022	Brisbane, Australia
+Data Mining	ICMLA 2022	IEEE International conference on Machine Learning and Applications	Dec 12, 2022	Nassau, The Bahamas
+Data Mining	BDEE 2022	2022 The 2nd International Conference on Big Data Engineering and Education (BDEE 2022)	Aug 5, 2022	Chengdu, China
+Data Mining	MIDAS 2022	The 7th Workshop on MIning DAta for financial applicationS	Sep 23, 2022	Grenoble, France
+Data Mining	ICBDR--Ei Compendex, Scopus 2022	2022 The 6th International Conference on Big Data Research (ICBDR 2022)--Ei Compendex, Scopus	Aug 10, 2022	Harbin, China
+Data Mining	IEEE--DSIT 2022	2022 IEEE 5th International Conference on Data Science and Information Technology (DSIT 2022)	Jul 22, 2022	Shanghai, China
+Data Mining	BDIOT 2022	2022 6th International Conference on Big Data and Internet of Things (BDIOT 2022)	Aug 12, 2022	Chongqing, China
+Data Mining	GRAPH-QUALITY@ECML-PKDD 2022	GRAPH-QUALITY Workshop Co-located with ECML-PKDD	Sep 23, 2022	Grenoble, France
+Data Mining	AALTD@ECML 2022	Workshop on Advanced Analytics and Learning on Temporal Data	Sep 19, 2022	Grenoble, France
+Data Mining	SCIS-ISIS 2022	Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems	Nov 29, 2022	Ise-Shima, Mie prefecture, Japan
+Data Mining	PRAXAI @ IEEE-DSAA 2022	Practical applications of explainable artificial intelligence methods  @ IEEE-DSAA22	Oct 13, 2022	Shenzhen, China (Hybrid)
+Data Mining	SmartCloud  2022	The 7th IEEE International Conference on Smart Cloud	Oct 8, 2022	Shanghai, China
+Data Mining	ICDM 2022	22nd IEEE International Conference on Data Mining 	Nov 30, 2022	Orlando, FL, USA
+Data Mining	ICPM 2022	4th International Conference on  Process Mining 2022	Oct 23, 2022	Bozen-Bolzano, Italy
+Data Mining	BDAML--Ei Compendex, Scopus 2022	2022 International Conference on Big Data Analysis and Machine Learning (BDAML 2022)--Ei Compendex, Scopus	Jul 20, 2022	Suzhou, China
+Data Mining	BigDaCI 2022	7th International Conference on Big Data Analytics, Data Mining and Computational Intelligence	Jul 20, 2022	Lisbon, Portugal 
+Data Mining	NeurIPS 2022	Thirty-sixth Conference on Neural Information Processing Systems	Nov 28, 2022	New Orleans, LA. Hybrid
+Data Mining	DMAH 2022	The Eighth International Workshop on Data Management and Analytics for Medicine and Healthcare	Sep 9, 2022	Sydney, Australia - virtual event
+Data Mining	HP3C--ACM, Ei and Scopus 2022	ACM--2022 6th International Conference on High Performance Compilation, Computing and Communications (HP3C 2022)--Ei Compendex, Scopus	Jun 23, 2022	Jilin, China
+Data Mining	ICDPA--Scopus, Ei 2022	2022 The 8th International Conference on Data Processing and Applications (ICDPA 2022)--Scopus, Ei Compendex	Jun 24, 2022	Xiamen, China
+Data Mining	ICITS--EI Compendex, SCOPUS 2022	2022 The 10th International Conference on Information Technology and Science (ICITS 2022)--Scopus, Ei Compendex	Jun 24, 2022	Xiamen, China
+Data Mining	RSTA 2022	4th International Symposium on Rough Sets: Theory and Applications	Sep 4, 2022	Sofia, Bulgaria
+Data Mining	COPA 2022	11th Symposium on Conformal and Probabilistic Prediction with Applications	Aug 24, 2022	Brighton, UK
+Data Mining	AIM@EPIA 2022	Artificial Intelligence in Medicine	Aug 31, 2022	Lisbon, Portugal
+Data Mining	INISTA 2022	16th International Conference on INnovations in Intelligent SysTems and Applications	Aug 8, 2022	Biarritz, France
+Data Mining	MLVis 2022	Machine Learning Methods in Visualisation for Big Data	Jun 13, 2022	Rome, Italy
+Data Mining	FICTA 2022	10th International Conference on Frontiers of Intelligent Computing: Theory and Applications	Jun 18, 2022	Aizawl, Mizoram, India
+Data Mining	ACIIDS 2022	14th Asian Conference on Intelligent Information and Database Systems	Nov 28, 2022	Ho Chi Minh City, Vietnam
+Data Mining	BlockSys--Ei Compendex, SCI, ESCI 2022	2022 International Conference on Blockchain and Trustworthy Systems (BlockSys'2022)--Ei Compendex, SCI, ESCI	Aug 4, 2022	Chengdu, China
+Data Mining	ICDATA 2022	18th Int. Conference on Data Science 	Jul 25, 2022	Las Vegas, NV
+Data Mining	IMMM 2022	The Twelfth International Conference on Advances in Information Mining and Management	Jun 26, 2022	Porto, Portugal
+Data Mining	SEBD 2022	30th Symposium on Advanced Database Systems	Jun 19, 2022	Tirrenia, Pisa (Tuscany), Italy
+Data Mining	SERA 2022	The 19th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications	May 25, 2022	Las Vegas, Nevada, USA
+Data Mining	INSIGHT 2022	Call for Paper [C4P-Call4Paper] Journal of Information System, Graphics, Hospitality and Technology (INSIGHT) 2022	Dec 1, 2021	ONLINE, Published : Surabaya, Indonesia
+Data Mining	SNTA 2022	The Fifth International Workshop on Systems and Network Telemetry and Analytics 	Jul 1, 2022	Minneapolis, USA
+Data Mining	EDM 2022	International Conference on Educational Data Mining	Jul 24, 2022	Durham, UK
+Data Mining	DATA 2022	11th International Conference on Data Science, Technology and Applications	Jul 11, 2022	Lisbon, Portugal
+Data Mining	ICWE 2022	CfP International Conference on Web Engineering, ICWE 2022 - Call for Demos & Posters	Jul 5, 2022	Bari, Italy
+Data Mining	MLIS 2022	4th International Conference on Machine Learning and Intelligent Systems	Nov 8, 2022	Seoul, Korea
+Data Mining	ICWE 2022	CfP International Conference on Web Engineering, ICWE 2022 - Call for PhD Symposium	Jul 5, 2022	Bari, Italy
+Data Mining	IFAC MIM '2022 SIMCA 2022	IFAC MIM '2022 SIMCA Open Invited Track	Jun 22, 2022	Nantes, France
+Data Mining	AIHealth@FLAIRS 2022	FLAIRS Special Track on Artificial Intelligence in Healthcare Informatics	May 15, 2022	Jensen Beach, FL, USA
+Data Mining	ICWE 2022	International Conference on Web Engineering	Jul 5, 2022	Bari, Italy
+Data Mining	ICWE 2022	CfP International Conference on Web Engineering, ICWE 2022 - Call for Workshop Proposals	Jul 5, 2022	Bari, Italy
+Data Mining	IntelliSys 2022	SAI Intelligent Systems Conference 2022	Sep 1, 2022	Amsterdam, The Netherlands
+Data Mining	ICWE 2022	CfP International Conference on Web Engineering, ICWE 2022 - Call for Tutorials	Jul 5, 2022	Bari, Italy
+Data Mining	FLAIRS-35 ST NN DM 2022	FLAIRS-35 Special Track on Neural Networks and Data Mining	May 15, 2022	Jensen Beach, Florida
+Data Mining	SMDB 2022	The 13th International Workshop on Self-Managing Database Systems (SMDB 2022)	May 9, 2022	Kuala Lumpur, Malaysia (or Online)
+Data Mining	ICAISC 2022	21st International Conference on Artificial Intelligence and Soft Computing	Jun 19, 2022	Zakopane, Poland
+Data Mining	IEA/AEI 2022	35th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems	Jul 19, 2022	Kitakyushu, Japan
+Data Mining	ICCCT 2022	4th International Conference on Communication and Computational Technologies	Feb 26, 2022	Jaipur, India
+Data Mining	MSA 2021	Multivariate Statistical Analysis 	Nov 8, 2021	Łódź, Poland
+Data Mining	IDA 2022	20th Symposium on Intelligent Data Analysis (IDA) 2022, Rennes, France	Apr 20, 2022	Rennes, France
+Data Mining	ICISCI 2022	International Conference on Intelligent Systems and Computational Intelligence	May 10, 2022	Changsha, China
+Data Mining	DASFAA 2022	Database Systems for Advanced Applications	Apr 11, 2022	Online (Hosted by IIIT Hyderabad, India)
+Data Mining	KG@SAC 2022	ACM SAC 2022 Track on Knowledge Graphs	Apr 25, 2022	Brno, Czech Republic
+Data Mining	NaBIC 2021	13th World Congress on Nature and Biologically Inspired Computing	Dec 15, 2021	Hybderabad, India
+Data Mining	DSCI 2021	4th International Conference on Data Science and Computational Intelligence	Dec 20, 2021	London, United Kingdom
+Data Mining	ABCSS 2021	The 6th International Workshop on Application of Big Data for Computational Social Science	Dec 14, 2021	Melbourne, Australia
+Data Mining	MLIS 2021	3rd International Conference on Machine Learning and Intelligent Systems	Nov 8, 2021	Online and Xiamen, China
+Data Mining	ICACIE 2021	6th International Conference on Advanced Computing and Intelligent Engineering	Dec 23, 2021	Bhubaneswar, Odisha, India
+Data Mining	AIAM 2021	3rd International Conference on Artificial Intelligence and Manufacturing	Oct 23, 2021	Manchester, United Kingdom
+Data Mining	XPERT4CQA 2021	First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA)	Dec 14, 2021	Melbourne, Australia
+Data Mining	IAAA 2021	IEEE ICDM 2021 Workshop on Intelligence-Augmented Anomaly Analytics	Dec 7, 2021	Auckland, New Zealand
+Data Mining	MLLD 2021	Second International Workshop on Mining and Learning in the Legal Domain	Dec 7, 2021	Auckland, New Zealand
+Data Mining	EpiMine 2021	EpiMine: Workshop on Mining and Policy-Making for Epidemic Surveillance	Dec 7, 2021	Auckland, New Zealand
+Data Mining	ISICA 2021	12th International Symposium on Intelligence Computation and Applications 2021	Nov 20, 2021	Guanghzhou, China
+Data Mining	ICDS 2021	5th International Conference on Intelligent Computing in Data Sciences	Oct 20, 2021	Fez, Morocco
+Data Mining	ICDSBA 2021	5th Annual International Conference on Data Science and Business Analytics	Sep 24, 2021	Changsha, Hunan, China
+Data Mining	ICBK 2021	The 12th IEEE International Conference on Big Knowledge	Dec 7, 2021	Auckland, New Zealand
+Data Mining	ICAIA 2021	IAENG International Conference on Artificial Intelligence and Applications 2021	Oct 20, 2021	Hong Kong, China
+Data Mining	ADMA 2021	The 17th International Conference on Advanced Data Mining and Applications 	Dec 6, 2021	Sydney, Australia
+Data Mining	CODS-COMAD 2022	5th Joint International Conference on Data Science & Management of Data	Jan 8, 2022	Bangalore, India
+Data Mining	ISCMI 2021	8th International Conference on Soft Computing and Machine Intelligence	Nov 26, 2021	Cairo, Egypt
+Data Mining	UKCI 2021	20th UK Workshop on Computational Intelligence	Sep 8, 2021	Aberystwyth, United Kingdom
+Data Mining	CSoNet  2021	CSoNet 2021 Call for Papers	Nov 15, 2021	Montreal, Quebec, Canada
+Data Mining	AKBC 2021	3rd Conference on Automated Knowledge Base Construction (AKBC)	Oct 4, 2021	Irvine, United States
+Data Mining	ICDM 2021	21st IEEE International Conference on Data Mining	Dec 7, 2021	Auckland, New Zealand
+Data Mining	PRAXAI @ IEEE-DSAA 2021	Practical applications of explainable artificial intelligence methods  @ IEEE-DSAA21	Oct 6, 2021	Porto, Portugal (virtual)
+Data Mining	NAMSP 2021	2nd International Workshop on New Approaches for Multidimensional Signal Processing	Jul 8, 2021	Sofia, Bulgaria
+Data Mining	CIKM 2021	Conference on Information and Knowledge Management	Nov 1, 2021	Online-Gold Coast, Queensland, Australia
+Data Mining	IWAIPR 2021	VII International Workshop on Artificial Intelligence and Pattern Recognition	Oct 5, 2021	La Habana, Cuba
+Data Mining	Data4MDE 2021	 The First International Workshop on Data4MDE	Jun 21, 2021	Bergen Norway, Virtual
+Data Mining	ECML PKDD 2021	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases	Sep 13, 2021	Bilbao, Spain
+Data Mining	BraSNAM 2021	X Brazilian Workshop on Social Network Analysis and Mining	Jul 18, 2021	Florianopolis, Brazil - ONLINE
+Data Mining	ICCS 2021	International Conference on Conceptual Structures	Sep 20, 2021	Bolzano, Italy
+Data Mining	ECML PKDD 2021	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases	Sep 13, 2021	Bilbao, Spain
+Data Mining	EDM 2021	Educational Data Mining	Jun 29, 2021	Paris, France
+Data Mining	AIHealth@FLAIRS 2021	FLAIRS Special Track on Artificial Intelligence in Healthcare Informatics (DEADLINE EXTENDED)	May 16, 2021	North Miami Beach, FL
+Data Mining	ICACI 2021	13th International Conference on Advanced Computational Intelligence	May 14, 2021	Wanzhou, Chongqing, China 
+Data Mining	ICDSA 2021	2nd International Conference on Data Science and Applications	Apr 10, 2021	Kolkata, India
+Data Mining	ISOCI 2021	International Symposium on Computational Intelligence	Aug 13, 2021	Stockholm, Sweden
+Data Mining	IEA/AIE 2021	34th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems	Jul 26, 2021	Kuala Lumpur, Malaysia
+Data Mining	MDM 2021	22nd IEEE Conference on Mobile Data Management 	Jun 15, 2021	Toronto, Canada
+Data Mining	ICDM 2023	23th Industrial Conference on Data Mining	Jul 12, 2023	New York, USA
+Data Mining	ICDM 2021	21th Industrial Conference on Data Mining 	Jul 14, 2021	New York, USA
+Data Mining	MLDM 2021	17th International Conference on Machine Learning and Data Mining 	Jul 17, 2021	New York, USA
+Data Mining	AINA 2021	The 35th International Conference on Advanced Information Networking and Applications	May 12, 2021	Ryerson University, Canada
+Data Mining	IFAC INCOM SIMCA 2021	OPEN TRACK on SYSTEM IDENTIFICATION for MANUFACTURING CONTROL APPLICATIONS	Jun 7, 2021	Budapest, Hungary
+Data Mining	DOLAP 2021	3rd International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data	Mar 23, 2021	Nicosia, Cyprus
+Data Mining	LCBuADAaML 2021	WordCIST 2021 (Springer) 1st Workshop on Leveraging customer behavior using advanced data analytics and Machine learning techniques	Mar 30, 2021	Terceira Island, Azores, Portugal,
+Data Mining	FLAIRS 2021	FLAIRS-34 Special Track on Neural Networks and Data Mining	May 16, 2021	North Miami Beach, Florida
+Data Mining	DASFAA 2021	Database Systems for Advanced Applications	Apr 11, 2021	Taipei, Taiwan
+Data Mining	DSEA 2020	The Fourth International Workshop on Data Science Engineering and its Applications 	Dec 14, 2020	Paris, France
+Data Mining	SAMSN 2020	The International Workshop on Sentiment Analysis and Mining of Social Networks	Dec 14, 2020	Paris, France
+Data Mining	ICDE 2021	International Conference on Data Engineering	Apr 19, 2021	Chania, Crete, Greece
+Data Mining	BFNDMA 2020	Big Food and Nutrition Data Management and Analysis	Dec 10, 2020	Atlanta, GA, USA
+Data Mining	DPM 2020	Discriminative Pattern Mining Workshop	Dec 10, 2020	Atlanta, Georgia, USA
+Data Mining	SDM 2021	SIAM International Conference on Data Mining	Mar 25, 2021	Alexandria, Virginia, U.S
+Data Mining	ICS 2020	2020 International Computer Symposium	Dec 17, 2020	Tainan, Taiwan
+Data Mining	MLLD 2020	The International Workshop on Mining and Learning in the Legal Domain	Nov 17, 2020	Sorrento, Italy
+Data Mining	WSDM 2021	14th ACM Conference on Web Search and Data Mining	Mar 8, 2021	Jerusalem, Israel
+Data Mining	AIdSH 2020	International Workshop on AI-driven Smart Healthcare	Dec 7, 2020	Taipei, Taiwan 
+Data Mining	IDEAL 2020	21st International Conference on Intelligent Data Engineering and Automated Learning	Nov 4, 2020	Guimarães, Portugal
+Data Mining	ISMCI 2020	7th International Conference on Soft Computing and Machine Intelligence	Nov 14, 2020	Stockholm, Sweden
+Data Mining	DS 2020	23rd International Conference on Discovery Science	Oct 19, 2020	Thessaloniki, Greece
+Data Mining	ICDM 2020	20th IEEE International Conference on Data Mining	Nov 17, 2020	Sorrento, Italy
+Data Mining	WISDOM 2020	The 9th KDD Workshop on Issues of Sentiment Discovery and Opinion Mining	Aug 24, 2020	San Diego, CA USA
+Data Mining	DSAA 2020	IEEE International Conference on Data Science and Advanced Analytics	Oct 6, 2020	Sydney, Australia
+Data Mining	BIOKDD 2020	19th International Workshop on Data Mining in Bioinformatics (with SIGKDD 2020)	Aug 24, 2020	San Diego, CA - USA
+Data Mining	FedCSIS - AI 2020	FedCSIS 2020 Track 1: Artificial Intelligence (AI)	Sep 6, 2020	Sofia, Bulgaria
+Data Mining	GeoRich 2020	6th ACM SIGMOD Workshop on Managing and Mining Enriched Geo-Spatial Data	Jun 14, 2020	Portland, OR, USA
+Data Mining	CodiEsp (eHealth CLEF 2020) 2020	CLEF-2020 CodiEsp: clinical text classification, indexing and explainable AI Task (eHealth CLEF 2020)	Sep 22, 2020	Thessaloniki, Greece
+Data Mining	APWeb-WAIM 2020	Call for Papers: APWeb-WAIM 2020, Demo Track	Aug 12, 2020	Tianjin, China
+Data Mining	MLVis 2020	International Workshop on Machine Learning in Visualisation for Big Data 2020	May 25, 2020	Norrköping, Sweden
+Data Mining	KES 2020	Classification, forecasting and decision support - invited session at KES2020 	Sep 16, 2020	Verona, Italy
+Data Mining	MobiSocial 2020	5th International  Workshop on Mobile Data Management, Mining, and Computing on Social Network	Jun 30, 2020	Versailles, France
+Data Mining	ICAI 2020	International Conference on Artificial Intelligence	Apr 17, 2020	Larache, Morocco
+Data Mining	Data Science  2020	3nd Annual International Great Lakes Data Science Symposium	May 1, 2020	Erie, PA
+Data Mining	ECML PKDD 2020	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases	Sep 14, 2020	Ghent, Belgium
+Data Mining	ICDM 2020	Call for Short&Industry Papers / 20th Industrial Conference on Data Mining ICDM 2020	Jul 15, 2020	New York, USA
+Data Mining	DMBD 2020	The Fifth International Conference of Data Mining and Big Data	Jul 14, 2020	Belgrade, Serbia
+Data Mining	DASPA 2020	The International Workshop on Data Stream Processing and Applications 	Jul 1, 2020	University of Cagliari, Italy
+Data Mining	DSRE  2020	Data Science for Retail and E-commerce workshop (colocated with SIAM SDM 20)	May 9, 2020	Cincinnati, Ohio, USA
+Data Mining	MLIS 2020	2nd International Conference on Machine Learning and Intelligent Systems 	Oct 25, 2020	Seoul, Korea
+Data Mining	MLBD 2020	Machine Learning for Big Data track of the 34th International ECMS Conference on Modelling and Simulation	Jun 9, 2020	Wildau near Berlin, Germany
+Data Mining	DSBFI 2020	2nd ISSAT International Conference on Data Science in Business, Finance and Industry	Jul 1, 2020	Da Nang, Vietnam
+Data Mining	APWeb-WAIM 2020	The 4th APWeb-WAIM International Joint Conference on Web and Big Data	Aug 12, 2020	Tianjin, China
+Data Mining	CIMB 2020	EAIS2020 Special Session on Computational Intelligence methods in bioinformatics	May 27, 2020	Bari, Italy
+Data Mining	BigData Conference 2020	2020 International Conference on Big Data Call for Papers- EI Compendex and Scopus	Jun 22, 2020	Honolulu, Hawaii, USA
+Data Mining	IDT 2020	12th International Conference on Intelligent Design Technologies	Jun 17, 2020	Split, Croatia
+Data Mining	MLA 2020	The International Workshop on Machine Learning Applications	Mar 31, 2020	Marrakech, Morocco
+Data Mining	TempWeb 2020	The 10th Temporal Web Analytics Workshop 2020 (@ The Web Conference)	Apr 20, 2020	Taipei, Taiwan
+Data Mining	IEA/AIE 2020	33rd International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems	Sep 22, 2020	Kitakyushu, Japan
+Data Mining	ICDM 2020	20th Industrial Conference on Data Mining ICDM 2020	Jul 15, 2020	New York, USA
+Data Mining	ICDM 2020	20th Industrial Conference on Data Mining ICDM 2020	Jul 15, 2020	New York, USA
+Data Mining	ICDM 2020	20th Industrial Conference on Data Mining ICDM 2020	Jul 15, 2020	New York, USA
+Data Mining	BigVis 2020	3rd Intl.  Workshop on Big Data Visual Exploration and Analytics	Mar 30, 2020	Copenhagen, Denmark
+Data Mining	DASFAA 2020	Database Systems for Advanced Applications	May 21, 2020	Seoguipo KAL Hotel, Jeju, Korea
+Data Mining	CLDD 2020	Classifier Learning from Difficult Data 2020 (ICCS 2020 workshop)	Jun 3, 2020	Amsterdam, The Netherlands
+Data Mining	HCCS 2020	Second Workshop on Human-Centered Computational Sensing (HCCS'20) @ PerCom 2020	Mar 23, 2020	Austin, Texas, USA
+Data Mining	ICACI 2020	12th International Conference on Advanced Computational Intelligence	Mar 14, 2020	Dali, Yunmnan, China
+Data Mining	IFAC World Congress SIMCA 2020	IFAC World Congress SIMCA 2020 : IFAC WORLD CONGRESS '2020 OPEN INVITED TRACK on SYSTEM IDENTIFICATION for MANUFACTURING CONTROL APPLICATIONS	Jul 12, 2020	Berlin, Germany
+Data Mining	AIHealth@FLAIRS 2020	AI in Healthcare Informatics Special Track at FLAIRS	May 17, 2020	North Miami Beach, FL
+Data Mining	FLAIRS 2020	DataMining@FLAIRS2020	May 17, 2020	North Miami Beach, Florida
+Data Mining	VIPERC 2020	Visual Pattern Extraction and Recognition for Cultural Heritage Understanding Workshop	Jan 29, 2020	Bari, Italy
+Data Mining	BTSD  2019	Workshop on Big Data Tools and Use Cases for Innovative Scientific Discovery (BTSD) 2019 @IEEE BigData 2019 LA, USA	Dec 9, 2019	LA, USA

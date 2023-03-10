@@ -1,0 +1,10 @@
+Sydney 20	
+Dubai 17	
+Zurich 17	
+Beijing 16	
+London 15	
+Vienna 15	
+Vancouver 14	
+Chengdu 11	
+Lisbon 11	
+Chongqing 10	

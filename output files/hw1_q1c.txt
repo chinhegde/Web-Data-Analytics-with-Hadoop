@@ -1,0 +1,910 @@
+Belagavi : 2022	
+Copenhagen : 2023	
+Aberystwyth : 2021	
+Abu Dhabi : 2020	
+Adelaide : 2022	
+Aizawl : 2022	
+Alexandria : 2022	
+Amsterdam : 2020	
+Amsterdam : 2022	
+Arlington : 2022	
+Arlington : 2022	
+Ashoka University : 2020	
+Atlanta : 2020	
+Atlanta : 2020	
+Atlanta : 2020	
+Atlanta : 2020	
+Atlanta : 2020	
+Atlanta : 2022	
+Atlanta : 2022	
+Auckland : 2021	
+Auckland : 2021	
+Auckland : 2021	
+Auckland : 2021	
+Auckland : 2021	
+Austin : 2020	
+Baltimore : 2022	
+Bandung : 2022	
+Bangalore : 2022	
+Bangkok : 2020	
+Bangkok : 2021	
+Bangkok : 2022	
+Bangkok : 2022	
+Barcelona : 2021	
+Barcelona : 2021	
+Barcelona : 2021	
+Barcelona : 2022	
+Barcelona : 2022	
+Barcelona : 2022	
+Bari : 2020	
+Bari : 2020	
+Bari : 2022	
+Bari : 2022	
+Bari : 2022	
+Bari : 2022	
+Bari : 2022	
+Bari : 2022	
+Beijing : 2020	
+Beijing : 2021	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2022	
+Beijing : 2023	
+Beijing : 2023	
+Belgrade : 2020	
+Bergen Norway : 2021	
+Berlin : 2020	
+Bhubaneswar : 2021	
+Biarritz : 2021	
+Biarritz : 2021	
+Biarritz : 2022	
+Bilbao : 2021	
+Birmingham : 2022	
+Bolzano : 2021	
+Boston : 2022	
+Bozen-Bolzano : 2022	
+Brighton : 2022	
+Brisbane : 2022	
+Brno : 2022	
+Brno : 2023	
+Brno : 2023	
+Budapest : 2021	
+Budapest : 2022	
+Busan : 2021	
+Cairo : 2021	
+Cairo : 2022	
+Calabria : 2022	
+Canberra : 2020	
+Catania : 2021	
+Changsha : 2021	
+Changsha : 2022	
+Chania : 2021	
+Charleston : 2022	
+Charleston : 2022	
+Charlotte : 2022	
+Chengdu : 2022	
+Chengdu : 2022	
+Chengdu : 2022	
+Chengdu : 2022	
+Chengdu : 2022	
+Chengdu : 2022	
+Chengdu : 2022	
+Chengdu : 2023	
+Chengdu : 2023	
+Chengdu : 2023	
+Chengdu : 2023	
+Chennai : 2022	
+Chennai : 2022	
+Chennai : 2022	
+Chennai : 2022	
+Chennai : 2022	
+Chiang Mai : 2022	
+Chiba : 2022	
+Chicago : 2021	
+Chicago : 2022	
+Chongqing : 2022	
+Chongqing : 2022	
+Chongqing : 2022	
+Chongqing : 2022	
+Chongqing : 2022	
+Chongqing : 2023	
+Chongqing : 2023	
+Chongqing : 2023	
+Chongqing : 2023	
+Chongqing : 2023	
+Cincinnati : 2020	
+Coimbatore : 2020	
+Coimbatore : 2021	
+Coimbatore : 2022	
+College of EME : 2022	
+Copenhagen : 2020	
+Copenhagen : 2023	
+Copenhagen : 2023	
+Copenhagen : 2023	
+Copenhagen : 2023	
+Corfu Holiday Palace : 2022	
+Cusco : 2023	
+Da Nang : 2020	
+Da Nang : 2023	
+Daegu University : 2021	
+Dali : 2020	
+Dalian : 2022	
+Dallas : 2020	
+Dallas : 2022	
+Dallas : 2022	
+Delft : 2022	
+Delhi : 2021	
+Dijon : 2022	
+Dijon : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2022	
+Dubai : 2023	
+Dubai : 2023	
+Dubai : 2023	
+Dubai : 2023	
+Dubai : 2023	
+Dubai : 2023	
+Dubai : 2023	
+Dublin : 2023	
+Durham : 2022	
+Durham : 2022	
+Erie : 2020	
+Errachidia : 2022	
+Espoo : 2022	
+Fez : 2021	
+Florianopolis : 2021	
+Gandhinagar : 2022	
+Gandia : 2021	
+Gandia : 2021	
+Gandia : 2021	
+Gandia : 2021	
+Gandia : 2021	
+Gdansk : 2022	
+Gdansk : 2022	
+Gdansk : 2022	
+Gdansk : 2022	
+Gdansk : 2022	
+Genova Nervi : 2022	
+Ghaziabad : 2022	
+Goa : 2022	
+Gold Coast : 2022	
+Gold Coast : 2023	
+Gran Canaria : 2021	
+Grasmere : 2021	
+Grenoble : 2022	
+Grenoble : 2022	
+Grenoble : 2022	
+Guanghzhou : 2021	
+Guangzhou : 2020	
+Guangzhou : 2022	
+Guilin : 2022	
+Guimarães : 2020	
+Guiyang : 2023	
+Guiyang : 2023	
+Gyeongju : 2022	
+Haifa : 2022	
+Haikou : 2023	
+Hamburg : 2022	
+Hamburg : 2022	
+Hangzhou : 2022	
+Hangzhou : 2022	
+Hangzhou : 2023	
+Hangzhou : 2023	
+Hangzhou : 2023	
+Hanoi : 2021	
+Harbin : 2022	
+Harbin : 2022	
+Harbin : 2023	
+Hefei : 2021	
+Heidelberg : 2022	
+Himeji : 2022	
+Ho Chi Minh : 2023	
+Ho Chi Minh City : 2022	
+Hong Kong : 2021	
+Honolulu : 2020	
+Huanggang : 2022	
+Hybderabad : 2021	
+Hyderabad : 2021	
+Hyderabad : 2022	
+Hyderabad : 2023	
+Iijon : 2022	
+Irvine : 2021	
+Ise-Shima : 2022	
+Jaipur : 2022	
+Jaipur : 2023	
+Jakarta : 2022	
+Jeju Island : 2022	
+Jensen Beach : 2022	
+Jensen Beach : 2022	
+Jerusalem : 2021	
+Jilin : 2022	
+KDD 2022 : 2022	
+Kalyani : 2023	
+Kharagpur : 2022	
+Khemis Miliana : 2020	
+Kigali : 2023	
+Kitakyushu : 2020	
+Kitakyushu : 2022	
+Kolkata : 2021	
+Kuala Lumpur : 2021	
+Kuala Lumpur : 2022	
+LA : 2019	
+La Habana : 2021	
+La Plata : 2021	
+La Plata : 2022	
+Laguna Hills : 2021	
+Laguna Hills : 2021	
+Laguna Hills : 2022	
+Laguna Hills : 2022	
+Laguna Hills : 2022	
+Laguna Hills : 2022	
+Laguna Hills : 2023	
+Laguna Hills : 2023	
+Larache : 2020	
+Larissa : 2022	
+Las Vegas : 2022	
+Las Vegas : 2022	
+Leicester : 2020	
+Leicester : 2021	
+Leicester : 2022	
+Leicester : 2023	
+Leuven : 2022	
+Leuven : 2022	
+Levi Ski Resort : 2023	
+Levi Ski Resort : 2023	
+Lima : 2020	
+Linz : 2021	
+Lisbon : 2022	
+Lisbon : 2022	
+Lisbon : 2022	
+Lisbon : 2022	
+Lisbon : 2022	
+Lisbon : 2022	
+Lisbon : 2022	
+Lisbon : 2023	
+Lisbon : 2023	
+Lisbon : 2023	
+Lisbon : 2023	
+London : 2021	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2022	
+London : 2023	
+London : 2023	
+London : 2023	
+London : 2023	
+MDPI : 2021	
+Macao : 2020	
+Macao : 2021	
+Macau : 2021	
+Macau : 2022	
+Macau : 2023	
+Macau SAR : 2022	
+Madeira : 2020	
+Manchester : 2021	
+Marrakech : 2020	
+Marseille : 2023	
+Marseille : 2023	
+McMaster University : 2021	
+Mechelen : 2022	
+Melbourne : 2021	
+Melbourne : 2021	
+Mexico City : 2023	
+Mianyang : 2023	
+Milan : 2022	
+Milan : 2022	
+Milan : 2022	
+Milan : 2022	
+Milan : 2022	
+Milan : 2022	
+Milan : 2022	
+Milan : 2022	
+Minneapolis : 2022	
+Minneapolis : 2023	
+Montreal (Canada) : 2022	
+Montreal : 2021	
+Montréal : 2022	
+Moodbidri : 2022	
+N/A : 2021	
+NEW JERSY : 2021	
+Nagoya University : 2022	
+Nagpur : 2022	
+Nanjing : 2022	
+Nanjing : 2022	
+Nantes : 2022	
+Naples : 2022	
+Naples : 2022	
+Nassau : 2022	
+New Delhi : 2023	
+New Orleans : 2022	
+New Orleans : 2022	
+New Orleans : 2022	
+New Orleans : 2022	
+New York : 2020	
+New York : 2020	
+New York : 2021	
+New York : 2021	
+New York : 2021	
+New York : 2023	
+New York : 2023	
+New York : 2023	
+New York : 2023	
+Newcastle upon Tyne : 2021	
+Nha Trang : 2022	
+Niagara Falls : 2022	
+Nice : 2022	
+Nice : 2023	
+Nice : 2023	
+Nicosia : 2021	
+Nicosia : 2021	
+Noida : 2023	
+Norrköping : 2020	
+North Miami Beach : 2020	
+North Miami Beach : 2020	
+North Miami Beach : 2021	
+North Miami Beach : 2021	
+Novotel Vintage Park : 2023	
+ONLINE : 2021	
+Oak Ridge : 2021	
+Okayama University : 2022	
+Okayama University : 2022	
+Online (Hosted by IIIT Hyderabad : 2022	
+Online and Xiamen : 2021	
+Online-Gold Coast : 2021	
+Ontario : 2022	
+Orlando : 2021	
+Orlando : 2021	
+Orlando : 2022	
+Orlando : 2022	
+Orlando : 2022	
+Orlando : 2022	
+Orlando : 2022	
+Osaka : 2022	
+Osaka : 2022	
+Osaka : 2022	
+Osaka : 2022	
+Osaka : 2023	
+Ottawa : 2022	
+Palmerston North : 2023	
+Palmerston North : 2023	
+Paris : 2020	
+Paris : 2020	
+Paris : 2020	
+Paris : 2020	
+Paris : 2021	
+Perth : 2022	
+Phoenix : 2022	
+Ponta Delgada : 2023	
+Portland : 2020	
+Portland : 2021	
+Portland : 2022	
+Portland : 2022	
+Porto : 2021	
+Porto : 2022	
+Porto : 2022	
+Porto : 2022	
+Puerto Vallarta : 2020	
+Pune : 2023	
+Qingdao : 2022	
+Qingdao : 2022	
+Rabat : 2022	
+Remote (orig. Orlando : 2021	
+Rennes : 2021	
+Rennes : 2022	
+Rome : 2022	
+Rome : 2022	
+Rome : 2022	
+Rome : 2022	
+Rome : 2022	
+Rome : 2022	
+Rourkela : 2023	
+Ryerson University : 2021	
+SAN ANTONIO : 2022	
+San Antonio : 2022	
+San Antonio : 2022	
+San Carlos de Bariloche : 2023	
+San Diego : 2020	
+San Diego : 2020	
+Sanya : 2022	
+Sanya : 2022	
+Sanya : 2022	
+Sanya : 2022	
+Sanya : 2023	
+Seattle : 2022	
+Seoul : 2020	
+Seoul : 2022	
+Seoul : 2023	
+Seoul : 2023	
+Seoul : 2023	
+Shanghai : 2022	
+Shanghai : 2022	
+Shanghai : 2022	
+Shanghai : 2022	
+Shanghai : 2023	
+Shenyang : 2023	
+Shenyang : 2023	
+Shenyang : 2023	
+Shenzhen : 2021	
+Shenzhen : 2022	
+Shenzhen : 2022	
+Shenzhen : 2022	
+Shenzhen : 2022	
+Shenzhen : 2023	
+Shenzhen : 2023	
+Sichuan University : 2022	
+Sitges : 2022	
+Sofia : 2020	
+Sofia : 2021	
+Sofia : 2022	
+Sorrento : 2020	
+Sorrento : 2020	
+South Asian University : 2012	
+South Asian University : 2022	
+Split : 2020	
+Stockholm : 2020	
+Stockholm : 2021	
+Stockholm : 2023	
+Suzhou : 2022	
+Sydney : 2020	
+Sydney : 2021	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2022	
+Sydney : 2023	
+Sydney : 2023	
+Sydney : 2023	
+Sydney : 2023	
+Sydney : 2023	
+Sydney : 2023	
+Taichung : 2021	
+Taichung City : 2021	
+Tainan : 2020	
+Tainan : 2022	
+Taipei : 2020	
+Taipei : 2020	
+Taizhou : 2023	
+Tallinn : 2023	
+Tartu : 2021	
+Tartu : 2021	
+Tashkent : 2022	
+Tel Aviv : 2022	
+Tel-Aviv : 2022	
+Terceira Island : 2021	
+The University of Aizu : 2022	
+Thessaloniki : 2020	
+Thessaloniki : 2020	
+Tianjin : 2020	
+Tianjin : 2020	
+Tianjin : 2023	
+Tirrenia : 2022	
+Tokyo : 2022	
+Tokyo : 2022	
+Tokyo : 2023	
+Torino : 2022	
+Toronto : 2021	
+Toronto : 2022	
+Toronto : 2023	
+Toronto : 2023	
+Toronto : 2023	
+Toronto : 2023	
+Toronto : 2023	
+Toronto : 2023	
+Toronto : 2023	
+Toulouse : 2023	
+Tromsø : 2023	
+Udine : 2022	
+Umea : 2023	
+University Mohamed Boudiaf of M'sila : 2023	
+University of Cagliari : 2020	
+University of Ryukyu : 2022	
+University of Ryukyu : 2022	
+Valencia : 2020	
+Valleta : 2022	
+Valletta : 2022	
+Valletta : 2022	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Vancouver : 2023	
+Verona : 2020	
+Versailles : 2020	
+Videoconference (Sopot : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2022	
+Vienna : 2023	
+Vienna : 2023	
+Vienna : 2023	
+Vienna : 2023	
+Vienna : 2023	
+Vienna : 2023	
+Virtual : 2020	
+WARSAW : 2021	
+Wanzhou : 2021	
+Warsaw : 2022	
+Washington : 2022	
+Washington : 2023	
+Washington : 2023	
+Washinton : 2022	
+Western Sydney : 2022	
+Western Sydney : 2022	
+Wildau near Berlin : 2020	
+Wuhan : 2020	
+Wuhan : 2022	
+Wuhan : 2022	
+Wuxi : 2022	
+Wuxi : 2023	
+Xalapa : 2022	
+Xi'an : 2021	
+Xi'an : 2022	
+Xi'an : 2022	
+Xi'an : 2022	
+Xi'an : 2022	
+Xi'an : 2022	
+Xi'an : 2022	
+Xi'an : 2023	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2022	
+Xiamen : 2023	
+Xianyang : 2023	
+Xinxiang : 2021	
+Yichang : 2023	
+Yokohama : 2023	
+Zakopane : 2022	
+Zhenjiang : 2022	
+Zhuhai : 2023	
+Zhuhai : 2023	
+Zibo : 2023	
+Zurich : 2022	
+Zurich : 2022	
+Zurich : 2022	
+Zurich : 2022	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+Zurich : 2023	
+lisbon : 2020	
+online : 2020	
+the University of Oxford : 2023	
+Łódź : 2021	
+Belagavi  {2022: 1}	
+Copenhagen  {2023: 5, 2020: 1}	
+Aberystwyth  {2021: 1}	
+Abu Dhabi  {2020: 1}	
+Adelaide  {2022: 1}	
+Aizawl  {2022: 1}	
+Alexandria  {2022: 1}	
+Amsterdam  {2020: 1, 2022: 1}	
+Arlington  {2022: 2}	
+Ashoka University  {2020: 1}	
+Atlanta  {2020: 5, 2022: 2}	
+Auckland  {2021: 5}	
+Austin  {2020: 1}	
+Baltimore  {2022: 1}	
+Bandung  {2022: 1}	
+Bangalore  {2022: 1}	
+Bangkok  {2020: 1, 2021: 1, 2022: 2}	
+Barcelona  {2021: 3, 2022: 3}	
+Bari  {2020: 2, 2022: 6}	
+Beijing  {2020: 1, 2021: 1, 2022: 12, 2023: 2}	
+Belgrade  {2020: 1}	
+Bergen Norway  {2021: 1}	
+Berlin  {2020: 1}	
+Bhubaneswar  {2021: 1}	
+Biarritz  {2021: 2, 2022: 1}	
+Bilbao  {2021: 1}	
+Birmingham  {2022: 1}	
+Bolzano  {2021: 1}	
+Boston  {2022: 1}	
+Bozen-Bolzano  {2022: 1}	
+Brighton  {2022: 1}	
+Brisbane  {2022: 1}	
+Brno  {2022: 1, 2023: 2}	
+Budapest  {2021: 1, 2022: 1}	
+Busan  {2021: 1}	
+Cairo  {2021: 1, 2022: 1}	
+Calabria  {2022: 1}	
+Canberra  {2020: 1}	
+Catania  {2021: 1}	
+Changsha  {2021: 1, 2022: 1}	
+Chania  {2021: 1}	
+Charleston  {2022: 2}	
+Charlotte  {2022: 1}	
+Chengdu  {2022: 7, 2023: 4}	
+Chennai  {2022: 5}	
+Chiang Mai  {2022: 1}	
+Chiba  {2022: 1}	
+Chicago  {2021: 1, 2022: 1}	
+Chongqing  {2022: 5, 2023: 5}	
+Cincinnati  {2020: 1}	
+Coimbatore  {2020: 1, 2021: 1, 2022: 1}	
+College of EME  {2022: 1}	
+Corfu Holiday Palace  {2022: 1}	
+Cusco  {2023: 1}	
+Da Nang  {2020: 1, 2023: 1}	
+Daegu University  {2021: 1}	
+Dali  {2020: 1}	
+Dalian  {2022: 1}	
+Dallas  {2020: 1, 2022: 2}	
+Delft  {2022: 1}	
+Delhi  {2021: 1}	
+Dijon  {2022: 2}	
+Dubai  {2022: 10, 2023: 7}	
+Dublin  {2023: 1}	
+Durham  {2022: 2}	
+Erie  {2020: 1}	
+Errachidia  {2022: 1}	
+Espoo  {2022: 1}	
+Fez  {2021: 1}	
+Florianopolis  {2021: 1}	
+Gandhinagar  {2022: 1}	
+Gandia  {2021: 5}	
+Gdansk  {2022: 5}	
+Genova Nervi  {2022: 1}	
+Ghaziabad  {2022: 1}	
+Goa  {2022: 1}	
+Gold Coast  {2022: 1, 2023: 1}	
+Gran Canaria  {2021: 1}	
+Grasmere  {2021: 1}	
+Grenoble  {2022: 3}	
+Guanghzhou  {2021: 1}	
+Guangzhou  {2020: 1, 2022: 1}	
+Guilin  {2022: 1}	
+Guimarães  {2020: 1}	
+Guiyang  {2023: 2}	
+Gyeongju  {2022: 1}	
+Haifa  {2022: 1}	
+Haikou  {2023: 1}	
+Hamburg  {2022: 2}	
+Hangzhou  {2022: 2, 2023: 3}	
+Hanoi  {2021: 1}	
+Harbin  {2022: 2, 2023: 1}	
+Hefei  {2021: 1}	
+Heidelberg  {2022: 1}	
+Himeji  {2022: 1}	
+Ho Chi Minh  {2023: 1}	
+Ho Chi Minh City  {2022: 1}	
+Hong Kong  {2021: 1}	
+Honolulu  {2020: 1}	
+Huanggang  {2022: 1}	
+Hybderabad  {2021: 1}	
+Hyderabad  {2021: 1, 2022: 1, 2023: 1}	
+Iijon  {2022: 1}	
+Irvine  {2021: 1}	
+Ise-Shima  {2022: 1}	
+Jaipur  {2022: 1, 2023: 1}	
+Jakarta  {2022: 1}	
+Jeju Island  {2022: 1}	
+Jensen Beach  {2022: 2}	
+Jerusalem  {2021: 1}	
+Jilin  {2022: 1}	
+KDD 2022  {2022: 1}	
+Kalyani  {2023: 1}	
+Kharagpur  {2022: 1}	
+Khemis Miliana  {2020: 1}	
+Kigali  {2023: 1}	
+Kitakyushu  {2020: 1, 2022: 1}	
+Kolkata  {2021: 1}	
+Kuala Lumpur  {2021: 1, 2022: 1}	
+LA  {2019: 1}	
+La Habana  {2021: 1}	
+La Plata  {2021: 1, 2022: 1}	
+Laguna Hills  {2021: 2, 2022: 4, 2023: 2}	
+Larache  {2020: 1}	
+Larissa  {2022: 1}	
+Las Vegas  {2022: 2}	
+Leicester  {2020: 1, 2021: 1, 2022: 1, 2023: 1}	
+Leuven  {2022: 2}	
+Levi Ski Resort  {2023: 2}	
+Lima  {2020: 1}	
+Linz  {2021: 1}	
+Lisbon  {2022: 7, 2023: 4}	
+London  {2021: 1, 2022: 10, 2023: 4}	
+MDPI  {2021: 1}	
+Macao  {2020: 1, 2021: 1}	
+Macau  {2021: 1, 2022: 1, 2023: 1}	
+Macau SAR  {2022: 1}	
+Madeira  {2020: 1}	
+Manchester  {2021: 1}	
+Marrakech  {2020: 1}	
+Marseille  {2023: 2}	
+McMaster University  {2021: 1}	
+Mechelen  {2022: 1}	
+Melbourne  {2021: 2}	
+Mexico City  {2023: 1}	
+Mianyang  {2023: 1}	
+Milan  {2022: 8}	
+Minneapolis  {2022: 1, 2023: 1}	
+Montreal (Canada)  {2022: 1}	
+Montreal  {2021: 1}	
+Montréal  {2022: 1}	
+Moodbidri  {2022: 1}	
+N/A  {2021: 1}	
+NEW JERSY  {2021: 1}	
+Nagoya University  {2022: 1}	
+Nagpur  {2022: 1}	
+Nanjing  {2022: 2}	
+Nantes  {2022: 1}	
+Naples  {2022: 2}	
+Nassau  {2022: 1}	
+New Delhi  {2023: 1}	
+New Orleans  {2022: 4}	
+New York  {2020: 2, 2021: 3, 2023: 4}	
+Newcastle upon Tyne  {2021: 1}	
+Nha Trang  {2022: 1}	
+Niagara Falls  {2022: 1}	
+Nice  {2022: 1, 2023: 2}	
+Nicosia  {2021: 2}	
+Noida  {2023: 1}	
+Norrköping  {2020: 1}	
+North Miami Beach  {2020: 2, 2021: 2}	
+Novotel Vintage Park  {2023: 1}	
+ONLINE  {2021: 1}	
+Oak Ridge  {2021: 1}	
+Okayama University  {2022: 2}	
+Online (Hosted by IIIT Hyderabad  {2022: 1}	
+Online and Xiamen  {2021: 1}	
+Online-Gold Coast  {2021: 1}	
+Ontario  {2022: 1}	
+Orlando  {2021: 2, 2022: 5}	
+Osaka  {2022: 4, 2023: 1}	
+Ottawa  {2022: 1}	
+Palmerston North  {2023: 2}	
+Paris  {2020: 4, 2021: 1}	
+Perth  {2022: 1}	
+Phoenix  {2022: 1}	
+Ponta Delgada  {2023: 1}	
+Portland  {2020: 1, 2021: 1, 2022: 2}	
+Porto  {2021: 1, 2022: 3}	
+Puerto Vallarta  {2020: 1}	
+Pune  {2023: 1}	
+Qingdao  {2022: 2}	
+Rabat  {2022: 1}	
+Remote (orig. Orlando  {2021: 1}	
+Rennes  {2021: 1, 2022: 1}	
+Rome  {2022: 6}	
+Rourkela  {2023: 1}	
+Ryerson University  {2021: 1}	
+SAN ANTONIO  {2022: 1}	
+San Antonio  {2022: 2}	
+San Carlos de Bariloche  {2023: 1}	
+San Diego  {2020: 2}	
+Sanya  {2022: 4, 2023: 1}	
+Seattle  {2022: 1}	
+Seoul  {2020: 1, 2022: 1, 2023: 3}	
+Shanghai  {2022: 4, 2023: 1}	
+Shenyang  {2023: 3}	
+Shenzhen  {2021: 1, 2022: 4, 2023: 2}	
+Sichuan University  {2022: 1}	
+Sitges  {2022: 1}	
+Sofia  {2020: 1, 2021: 1, 2022: 1}	
+Sorrento  {2020: 2}	
+South Asian University  {2012: 1, 2022: 1}	
+Split  {2020: 1}	
+Stockholm  {2020: 1, 2021: 1, 2023: 1}	
+Suzhou  {2022: 1}	
+Sydney  {2020: 1, 2021: 1, 2022: 12, 2023: 6}	
+Taichung  {2021: 1}	
+Taichung City  {2021: 1}	
+Tainan  {2020: 1, 2022: 1}	
+Taipei  {2020: 2}	
+Taizhou  {2023: 1}	
+Tallinn  {2023: 1}	
+Tartu  {2021: 2}	
+Tashkent  {2022: 1}	
+Tel Aviv  {2022: 1}	
+Tel-Aviv  {2022: 1}	
+Terceira Island  {2021: 1}	
+The University of Aizu  {2022: 1}	
+Thessaloniki  {2020: 2}	
+Tianjin  {2020: 2, 2023: 1}	
+Tirrenia  {2022: 1}	
+Tokyo  {2022: 2, 2023: 1}	
+Torino  {2022: 1}	
+Toronto  {2021: 1, 2022: 1, 2023: 7}	
+Toulouse  {2023: 1}	
+Tromsø  {2023: 1}	
+Udine  {2022: 1}	
+Umea  {2023: 1}	
+University Mohamed Boudiaf of M'sila  {2023: 1}	
+University of Cagliari  {2020: 1}	
+University of Ryukyu  {2022: 2}	
+Valencia  {2020: 1}	
+Valleta  {2022: 1}	
+Valletta  {2022: 2}	
+Vancouver  {2023: 14}	
+Verona  {2020: 1}	
+Versailles  {2020: 1}	
+Videoconference (Sopot  {2022: 1}	
+Vienna  {2022: 9, 2023: 6}	
+Virtual  {2020: 1}	
+WARSAW  {2021: 1}	
+Wanzhou  {2021: 1}	
+Warsaw  {2022: 1}	
+Washington  {2022: 1, 2023: 2}	
+Washinton  {2022: 1}	
+Western Sydney  {2022: 2}	
+Wildau near Berlin  {2020: 1}	
+Wuhan  {2020: 1, 2022: 2}	
+Wuxi  {2022: 1, 2023: 1}	
+Xalapa  {2022: 1}	
+Xi'an  {2021: 1, 2022: 6, 2023: 1}	
+Xiamen  {2022: 9, 2023: 1}	
+Xianyang  {2023: 1}	
+Xinxiang  {2021: 1}	
+Yichang  {2023: 1}	
+Yokohama  {2023: 1}	
+Zakopane  {2022: 1}	
+Zhenjiang  {2022: 1}	
+Zhuhai  {2023: 2}	
+Zibo  {2023: 1}	
+Zurich  {2022: 4, 2023: 13}	
+lisbon  {2020: 1}	
+online  {2020: 1}	
+the University of Oxford  {2023: 1}	
+Łódź  {2021: 1}	
